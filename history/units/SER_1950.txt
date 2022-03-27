@@ -1,0 +1,146 @@
+﻿division_template = {
+	name = "Pesadijska Divizija"	# Infantry Division
+
+	division_names_group = YUG_INF_01
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+	}
+	support = {
+		engineer = { x = 0 y = 0 } 
+	}
+}
+division_template = {
+	name = "Tenkovski Divizija"
+	division_names_group = YUG_ARM_01
+
+	regiments = {
+		medium_armor = { x = 0 y = 0 }
+		medium_armor = { x = 0 y = 1 }
+		medium_armor = { x = 0 y = 2 }
+		medium_armor = { x = 0 y = 3 }
+		mechanised_infantry = { x = 1 y = 0 }
+		mechanised_infantry = { x = 1 y = 1 }
+	}
+}
+
+
+units = {
+	#Serbian-Partisan Border
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 1
+		}
+		location = 3956
+		division_template = "Pesadijska Divizija"
+		start_experience_factor = 0.3
+	}
+	#Serbian-Partisan Border
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 2
+		}
+		location = 3984
+		division_template = "Pesadijska Divizija"
+		start_experience_factor = 0.3
+	}
+	#Serbian-Partisan Border
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 3
+		}
+		location = 6970
+		division_template = "Pesadijska Divizija"
+		start_experience_factor = 0.3
+	}
+	#Serbian-Partisan Border
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 4
+		}
+		location = 6998
+		division_template = "Pesadijska Divizija"
+		start_experience_factor = 0.3
+	}
+	#Serbian-Partisan Border
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 5
+		}
+		location = 9602
+		division_template = "Pesadijska Divizija"
+		start_experience_factor = 0.3
+	}
+	#Serbian-Partisan Border
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 6
+		}
+		location = 11887
+		division_template = "Pesadijska Divizija"
+		start_experience_factor = 0.3
+	}
+	#Serbian-Partisan Border
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 1
+		}
+		location = 9602
+		division_template = "Tenkovski Divizija"
+		start_experience_factor = 0.3
+	}
+}
+
+
+###### Vazduhoplovstvo Vojske Kraljevine Jugoslavije (VVKJ) ######
+air_wings = {
+	107 = {
+		# 1. Vazduhoplovna Brigada -- Dewotine D.1/9/27 fighters
+		fighter_equipment_0 = {
+			owner = "YUG" 
+			amount = 48
+		}
+	}
+	104 = {
+		# 2. Vazduhoplovna Brigada  -- Hawker Fury and Ikarus IK-2 fighters
+		fighter_equipment_0 = {
+			owner = "YUG" 
+			amount = 48
+		}
+	}
+}
+
+### Starting Production ###
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_1
+			creator = "YUG"
+		}
+		requested_factories = 1
+		progress = 0.37
+		efficiency = 100
+	}
+	add_equipment_production = {
+		equipment = {
+			type = support_equipment_1
+			creator = "YUG"
+		}
+		requested_factories = 1
+		progress = 0.76
+		efficiency = 100
+	}
+	
+}

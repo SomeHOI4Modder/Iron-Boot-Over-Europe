@@ -1,0 +1,16 @@
+state={
+	id=849
+	history={
+		owner = MOS
+		add_core_of = MOS
+
+	}
+	name="STATE_849"
+	provinces={
+		301 350 3290 9235 11217 11330 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

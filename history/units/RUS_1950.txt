@@ -1,0 +1,305 @@
+﻿##### Division Templates #####
+division_template = {
+	name = "Strelkovaya Diviziya"			# Rifle Division
+	division_names_group = RUS_INF_01
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+	}
+	support = {
+		artillery = { x = 0 y = 0 } 	# Heavy Arty Regiment had 1x 152mm bn + 2x 122mm bn
+	}
+}
+
+division_template = {
+	name = "Motostrelkovaya Diviziya"		# Motor Rifle Division
+	division_names_group = RUS_MOT_01
+											# Note: only represents Moscow Proletariat Division in 1936; after 1938-40, Motor Rifle Divisions had +1 mot regiment (3 bns) 
+	regiments = {
+		motorized = { x = 0 y = 0 }
+		motorized = { x = 0 y = 1 }
+		motorized = { x = 0 y = 2 }
+		motorized = { x = 1 y = 0 }
+		motorized = { x = 1 y = 1 }
+		motorized = { x = 1 y = 2 }
+	}
+	support = {
+		#recon = { x = 0 y = 0 } 		# Recon bn had 16x L tanks, 45 ACs #Eng and recon removed and they seem rather OP. Could revisit if balance changes 
+		#engineer = { x = 0 y = 1 } 	# (mot) Engineer bn
+	}
+}
+
+division_template = {
+	name = "Kavaleriyskaya Diviziya" 	# Cavalry Division
+	division_names_group = RUS_CAV_01
+
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+		cavalry = { x = 1 y = 0 }
+		cavalry = { x = 1 y = 1 }
+	}
+}
+
+division_template = {
+	name = "NKVD Pogranichnaya Diviziya"			# NKVD Border Guard Division - Garrison units (older experience, older equipment)
+	division_names_group = RUS_GAR_01
+
+	regiments = {
+		infantry = { x = 0 y = 0 }	
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+	}
+	support = 	{
+		military_police = { x = 0 y = 0 }
+	}
+	priority = 0
+	is_locked = yes 
+}
+division_template = {
+	name = "Tankovaya Diviziya"
+	division_names_group = RUS_ARM_01
+
+	regiments = {
+		medium_armor = { x = 0 y = 0 }
+		medium_armor = { x = 0 y = 1 }
+		medium_armor = { x = 1 y = 0 }		
+		medium_armor = { x = 1 y = 1 }	
+		motorized = { x = 2 y = 0 }		
+		motorized = { x = 2 y = 1 }		
+	}
+}
+
+
+##### OOB #####
+units = {
+	#NKVD Divisions
+		#Chelyabinsk NKVD Garrison
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 1
+		}
+		location = 9292
+		division_template = "NKVD Pogranichnaya Diviziya"		# NKVD -- older equipment, training
+		force_equipment_variants = { infantry_equipment_0 = { owner = "RUS" } }
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.56
+
+	}
+		#Tyumen NKVD Garrison
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 2
+		}
+		location = 4824
+		division_template = "NKVD Pogranichnaya Diviziya"		# NKVD -- older equipment, training
+		force_equipment_variants = { infantry_equipment_0 = { owner = "RUS" } }
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.37
+
+	}
+		#Magnitogorsk NKVD Garrison
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 3
+		}
+		location = 10256
+		division_template = "NKVD Pogranichnaya Diviziya"		# NKVD -- older equipment, training
+		force_equipment_variants = { infantry_equipment_0 = { owner = "RUS" } }
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.51
+
+	}
+		#Omsk NKVD Garrision
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 4
+		}
+		location = 10696
+		division_template = "NKVD Pogranichnaya Diviziya"		# NKVD -- older equipment, training
+		force_equipment_variants = { infantry_equipment_0 = { owner = "RUS" } }
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.47
+
+	}
+		#Sverdlovsk NKVD Garrison
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 5
+		}
+		location = 1821
+		division_template = "NKVD Pogranichnaya Diviziya"		# NKVD -- older equipment, training
+		force_equipment_variants = { infantry_equipment_0 = { owner = "RUS" } }
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.45
+
+	}
+	
+	#Infantry Divisions
+		#Magnitogorsk-ROA Border
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 1
+		}
+		location = 7373
+		division_template = "Strelkovaya Diviziya"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.73
+
+	}
+		#Magnitogorsk-Kazakh Border
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 2
+		}
+		location = 7401
+		division_template = "Strelkovaya Diviziya"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.66
+
+	}
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 3
+		}
+		location = 1775
+		division_template = "Strelkovaya Diviziya"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.75
+
+	}
+		#Tyumen-Kazakh Border
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 4
+		}
+		location = 4780
+		division_template = "Strelkovaya Diviziya"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.75
+
+	}
+		#Omsk-Siberian Border
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 5
+		}
+		location = 10696
+		division_template = "Strelkovaya Diviziya"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.71
+
+	}
+		#Tyumen-Siberian Border
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 6
+		}
+		location = 6787
+		division_template = "Strelkovaya Diviziya"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.74
+
+	}	
+		#Tyumen-Siberian Border
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 7
+		}
+		location = 7738
+		division_template = "Strelkovaya Diviziya"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.74
+
+	}
+	#Tank Divisions
+		#Chelyabinsk Garrison
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 1
+		}
+		location = 9292
+		division_template = "Tankovaya Diviziya"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.67
+
+	}			
+}					
+
+### Air Wings
+air_wings = {
+	  #LVO Aviatsya Komandovaniya -- Sverdlovsk
+	572 = { 
+		# 15ya Istrebitel'nye Aviabrigada
+		fighter_equipment_0 = {
+			owner = "SOV" 
+			amount = 94
+		}
+		 18ya Bombardirovochnye Aviabrigada
+		tac_bomber_equipment_0 =  {
+			owner = "SOV" 
+			amount = 60
+		}
+	}
+}
+
+
+		
+	#########################
+	## STARTING PRODUCTION ##
+	#########################
+instant_effect = {
+	
+
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_1
+			creator = "RUS"
+		}
+		requested_factories = 2
+		progress = 0.1
+		efficiency = 30
+	}
+
+	add_equipment_production = {
+		equipment = {
+			type = support_equipment_1
+			creator = "RUS" 
+		}
+		requested_factories = 1
+		progress = 0.3
+		efficiency = 30
+	}
+
+	add_equipment_production = {
+		equipment = {
+			type = artillery_equipment_1
+			creator = "RUS" 
+		}
+		requested_factories = 1
+		progress = 0.3
+		efficiency = 30
+	}
+}
+	#####################

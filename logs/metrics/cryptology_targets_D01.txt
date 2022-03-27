@@ -1,0 +1,10 @@
+SPR                             Republi 432     
+FRA                             Fourth  158.4   
+ENG                             United  158.4   
+POR                             Portuga 144     
+SOV                             Siberia 132     
+CHI                             Republi 132     
+USA                             United  132     
+JAP                             Japan   79.2    
+GER                             Großger 79.2    
+ITA                             Italian 79.2    

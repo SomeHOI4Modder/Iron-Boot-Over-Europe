@@ -1,0 +1,102 @@
+characters = {
+
+
+  ####    ####   #    #  #    #  #####  #####   #   #      #       ######    ##    #####   ######  #####    ####  
+ #    #  #    #  #    #  ##   #    #    #    #   # #       #       #        #  #   #    #  #       #    #  #      
+ #       #    #  #    #  # #  #    #    #    #    #        #       #####   #    #  #    #  #####   #    #   ####  
+ #       #    #  #    #  #  # #    #    #####     #        #       #       ######  #    #  #       #####        # 
+ #    #  #    #  #    #  #   ##    #    #   #     #        #       #       #    #  #    #  #       #   #   #    # 
+  ####    ####    ####   #    #    #    #    #    #        ######  ######  #    #  #####   ######  #    #   ####  
+                                                                                                                  
+
+	SGU_labour_camp_inmates = {
+		name = SGU_labour_camp_inmates
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_SGU_labour_camp_inmates"
+			}
+		}
+		country_leader = {
+			ideology = anarchist_communism
+			traits = { disorganised_anarchy }
+			id = -1
+		}
+	}
+
+
+   # #    #####   #    #  #   #      #        ######    ##    #####   ######  #####    ####  
+  #   #   #    #  ##  ##   # #       #        #        #  #   #    #  #       #    #  #      
+ #     #  #    #  # ## #    #        #        #####   #    #  #    #  #####   #    #   ####  
+ #######  #####   #    #    #        #        #       ######  #    #  #       #####        # 
+ #     #  #   #   #    #    #        #        #       #    #  #    #  #       #   #   #    # 
+ #     #  #    #  #    #    #        #######  ######  #    #  #####   ######  #    #   ####  
+                
+
+	SGU_kirill_meretskov = {
+		name = SOV_kirill_meretskov
+		portraits = {
+			army = {
+				large = GFX_portrait_SOV_kirill_meretskov
+				small=GFX_portrait_SOV_kirill_meretskov_small
+			}
+		}
+		corps_commander = {
+			traits = { trait_reckless infantry_officer }
+			skill = 3
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 3
+			legacy_id = 0
+			visible = { NOT = { has_character_flag = SOV_exiled_flag } }
+		}
+	}
+
+	SGU_yakov_smushkevich = {
+		name = SOV_yakov_smushkevich
+		portraits = {
+			army = {
+				small = "GFX_idea_yakov_smushkevich"
+			}
+		}
+
+		advisor = {	
+			slot = air_chief
+			idea_token = yakov_smushkevich
+			allowed = {
+				original_tag = SGU
+			}
+			traits = {
+				air_chief_safety_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}	
+	}
+
+	SGV_pavel_rychagov = {
+		name = SOV_pavel_rychagov
+		portraits = {
+			army = {
+				small = "GFX_idea_pavel_rychagov"
+			}
+		}
+
+		advisor = {
+			slot = air_chief
+			idea_token = pavel_rychagov
+			allowed = {
+				original_tag = SGU
+			}
+			traits = {
+				air_chief_all_weather_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}		
+	}
+}

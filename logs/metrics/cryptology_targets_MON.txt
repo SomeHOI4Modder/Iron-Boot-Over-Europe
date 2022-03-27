@@ -1,0 +1,18 @@
+MEN                             Mongol  144     
+XSM                             Ma Cliq 144     
+JAP                             Japan   132     
+GER                             Großger 132     
+ITA                             Italian 132     
+USA                             United  132     
+FRA                             Fourth  132     
+ENG                             United  132     
+SIK                             Sinkian 86.4    
+MEN                             Mongol  144     
+XSM                             Ma Cliq 144     
+JAP                             Japan   132     
+GER                             Großger 132     
+ITA                             Italian 132     
+USA                             United  132     
+FRA                             Fourth  132     
+ENG                             United  132     
+SIK                             Sinkian 86.4    

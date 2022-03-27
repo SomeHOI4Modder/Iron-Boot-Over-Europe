@@ -1,0 +1,28 @@
+﻿###########################
+# Russian Events
+###########################
+
+add_namespace = russia
+country_event = {
+	id = russia.1
+	title = russia.1.t
+	desc = russia.1.d
+	picture = GFX_report_event_stalin_and_zhukov
+	
+	is_triggered_only = yes
+	
+	option = { # General's Clique
+		name = russia.1.a
+		ai_chance = { factor = 75 }
+		hidden_effect = {
+			complete_national_focus = RUS_the_generals_clique
+		}
+	}
+	option = { # STAVKA
+		name = russia.1.b
+		ai_chance = { factor = 25 }
+		hidden_effect = {
+			complete_national_focus = RUS_the_stavka
+		}
+	}
+}

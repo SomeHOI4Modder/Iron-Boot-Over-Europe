@@ -1,0 +1,5 @@
+[14:53:40][defines.cpp:219]: 3482 defines loaded
+[14:54:15][gamestate.cpp:2503]: Loaded 13236 provinces.
+[14:54:21][gameapplication.cpp:2555]: Resetting game
+[14:54:24][history.cpp:160]: Executing History from -1.1.1.1 to  2.1.1.1
+[14:54:25][history.cpp:160]: Executing History from 2.1.1.1 to  1936.1.1.12

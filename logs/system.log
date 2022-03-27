@@ -1,0 +1,31 @@
+[14:53:39][main.cpp:1684]: Creating application...
+[14:53:40][gameapplication.cpp:1100]: Initializing application...
+[14:53:43][gameapplication.cpp:1106]: Done initializing application
+[14:53:43][gameapplication.cpp:1109]: Loading cursor...
+[14:53:43][graphicssettings.cpp:780]: Using multisampling: 4
+[14:53:43][graphics.cpp:980]: Creating device with: HARDWARE_VERTEXPROCESSING
+	Fullscreen=no
+	Resolution=1920x1080
+	Renderer=DirectX 9
+[14:53:43][graphicssettings.cpp:748]: Usable res: 640 480 60
+[14:53:43][graphicssettings.cpp:748]: Usable res: 800 600 60
+[14:53:43][graphicssettings.cpp:748]: Usable res: 1024 768 60
+[14:53:43][graphicssettings.cpp:748]: Usable res: 1280 720 60
+[14:53:43][graphicssettings.cpp:748]: Usable res: 1280 1024 60
+[14:53:43][graphicssettings.cpp:748]: Usable res: 1600 900 60
+[14:53:43][graphicssettings.cpp:748]: Usable res: 1680 1050 60
+[14:53:43][graphicssettings.cpp:748]: Usable res: 1920 1080 60
+[14:53:43][graphics.cpp:1015]: Done creating device.
+[14:54:29][gameapplication.cpp:1348]: Version: Barbarossa v1.11.9.e52a (36f4) build time: Mar  4 2022 08:47:52
+[14:54:29][gameapplication.cpp:1353]: Active DLC Count: 8
+[14:54:29][gameapplication.cpp:1354]: Active Mod Count: 1
+[14:54:29][gameapplication.cpp:1358]: Active DLC: Anniversary Pack
+[14:54:29][gameapplication.cpp:1358]: Active DLC: Historical German Portraits
+[14:54:29][gameapplication.cpp:1358]: Active DLC: No Step Back
+[14:54:29][gameapplication.cpp:1358]: Active DLC: No Step Back Preorder Bonus
+[14:54:29][gameapplication.cpp:1358]: Active DLC: Poland: United and Ready
+[14:54:29][gameapplication.cpp:1358]: Active DLC: Rocket Launcher Unit Pack
+[14:54:29][gameapplication.cpp:1358]: Active DLC: Together for Victory
+[14:54:29][gameapplication.cpp:1358]: Active DLC: Waking the Tiger
+[14:54:29][gameapplication.cpp:1363]: Active Mod: Iron Boot Over Europe
+[14:55:13][graphicssettings.cpp:780]: Using multisampling: 4

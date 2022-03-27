@@ -1,0 +1,19 @@
+state={
+	id=875
+	name="STATE_875"
+	
+	state_category = rural
+
+	history={
+		owner = RUS
+		add_core_of = RUS
+		set_demilitarized_zone = yes
+
+	}
+	provinces={
+		123 189 3127 4314 4326 11111 11195 12175 12187 12527 12587 
+	}
+	manpower=45300
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,18 @@
+state={
+	id=858
+	name="STATE_858"
+	history={
+		owner =SIA
+		add_core_of = SIA
+		add_core_of = SML
+		add_core_of = MAL
+
+	}
+	provinces={
+		1348 4310 4355 7329 10227 12199 
+	}
+	manpower=2503600
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

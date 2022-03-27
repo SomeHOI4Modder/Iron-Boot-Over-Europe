@@ -1,0 +1,18 @@
+state={
+	id=876
+	name="STATE_876"
+
+	history={
+		owner = RUS
+		add_core_of = RUS
+		set_demilitarized_zone = yes
+
+	}
+	provinces={
+		3081 6100 6193 9124 9213 11061 
+	}
+	manpower=16700
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+}

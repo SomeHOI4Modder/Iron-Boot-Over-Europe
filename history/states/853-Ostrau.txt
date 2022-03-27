@@ -1,0 +1,16 @@
+state={
+	id=853
+	name="STATE_853"
+	history={
+		owner = POL
+		add_core_of = POL
+
+	}
+	provinces={
+		11385 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

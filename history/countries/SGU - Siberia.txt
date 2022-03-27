@@ -1,0 +1,57 @@
+
+####
+#### NO STEP BACK
+####
+
+
+#COUNTRY LEADERS
+recruit_character = SGU_labour_camp_inmates
+recruit_character = SGU_yakov_smushkevich
+recruit_character = SGU_pavel_rychagov
+recruit_character = SGU_kirill_meretskov
+
+####
+#### VANILLA ####
+####
+
+capital = 219
+
+starting_train_buffer = 3.0
+
+if = {
+	limit = {
+		NOT = {
+			has_dlc = "No Step Back"
+		}
+	}
+	set_oob = "SGU_1950"
+}
+if = {
+	limit = {
+		has_dlc = "No Step Back"
+	}
+	set_oob = "SGU_1950"
+}
+
+set_research_slots = 2
+set_stability = 0.5
+set_war_support = 0.6
+# Starting tech
+set_technology = { #WARNING: Do not just remove techs from here -> It can impact a lot of stuff. Before removing, double check that content does not count on these techs being researched
+	infantry_weapons = 1
+}
+add_ideas = {	
+
+}
+
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1949.12.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	communism = 100
+}
+

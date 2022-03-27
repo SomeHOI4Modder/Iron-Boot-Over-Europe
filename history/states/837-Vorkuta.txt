@@ -1,0 +1,16 @@
+state={
+	id=837
+	name="STATE_837"
+	history={
+		owner = RUS
+		add_core_of = RUS
+
+	}
+	provinces={
+		198 6040 11098 11119 12502 13076 
+	}
+	manpower=70500
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

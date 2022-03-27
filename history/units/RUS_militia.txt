@@ -1,0 +1,74 @@
+﻿##### Division Templates #####
+division_template = {
+	name = "Narodnogo Opolchennaya Brigada"			# NKVD Border Guard Division - Garrison units (older experience, older equipment)
+	division_names_group = RUS_INF_02
+
+	regiments = {
+		infantry = { x = 0 y = 0 }	
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+	}
+	priority = 0
+	is_locked = yes 
+}
+
+
+##### OOB #####
+units = {
+	#Partisan Militia
+		#Chelyabinsk Militia
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 1
+		}
+		location = 9292
+		division_template = "Narodnogo Opolchennaya Brigada"
+		force_equipment_variants = { infantry_equipment_0 = { owner = "RUS" } }
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.50
+
+	}
+	#Partisan Militia
+		#Chelyabinsk Militia
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 2
+		}
+		location = 9292
+		division_template = "Narodnogo Opolchennaya Brigada"
+		force_equipment_variants = { infantry_equipment_0 = { owner = "RUS" } }
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.50
+
+	}
+	#Partisan Militia
+		#Chelyabinsk Militia
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 3
+		}
+		location = 9292
+		division_template = "Narodnogo Opolchennaya Brigada"
+		force_equipment_variants = { infantry_equipment_0 = { owner = "RUS" } }
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.50
+
+	}
+	#Partisan Militia
+		#Chelyabinsk Militia
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 4
+		}
+		location = 9292
+		division_template = "Narodnogo Opolchennaya Brigada"
+		force_equipment_variants = { infantry_equipment_0 = { owner = "RUS" } }
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.50
+
+	}
+}

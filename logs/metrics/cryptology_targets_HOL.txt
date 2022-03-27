@@ -1,0 +1,9 @@
+SOV                             Union o 158.4   
+POL                             Poland  158.4   
+BRA                             Brazil  144     
+VEN                             Venezue 138     
+JAP                             Japan   132     
+ITA                             Italian 132     
+FRA                             Fourth  95.04   
+ENG                             United  95.04   
+USA                             United  79.2    

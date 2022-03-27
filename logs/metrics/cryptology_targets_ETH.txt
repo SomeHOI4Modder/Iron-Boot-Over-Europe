@@ -1,0 +1,14 @@
+ITA                             Italian 475.2   
+GER                             Großger 158.4   
+FRA                             Fourth  158.4   
+ENG                             United  158.4   
+SOV                             Union o 132     
+JAP                             Japan   132     
+USA                             United  132     
+ITA                             Italian 475.2   
+GER                             Großger 158.4   
+FRA                             Fourth  158.4   
+ENG                             United  158.4   
+SOV                             Union o 132     
+JAP                             Japan   132     
+USA                             United  132     

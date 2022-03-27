@@ -1,0 +1,11 @@
+SOV                             Siberia 158.4   
+POL                             Poland  144     
+ROM                             Republi 144     
+USA                             United  132     
+FRA                             Fourth  132     
+ENG                             United  132     
+GER                             Großger 95.04   
+MOS                             Reichsk 86.4    
+ROA                             Russian 86.4    
+JAP                             Japan   79.2    
+ITA                             Italian 79.2    

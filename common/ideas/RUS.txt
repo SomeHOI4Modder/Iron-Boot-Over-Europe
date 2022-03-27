@@ -1,0 +1,41 @@
+ideas = {
+
+	country = {
+		final_guard_against_nazism = {
+			name = final_guard_against_nazism
+
+			removal_cost = -1
+
+			picture = final_guard_against_nazism
+			
+			allowed = {
+				always = no
+			}
+			
+			modifier = {
+				stability_factor = +0.1
+				war_support_factor = 0.1
+				political_power_factor = +0.15
+				army_core_defence_factor = 0.1
+				army_core_attack_factor = 0.05
+			}
+		}
+		memories_of_the_coup = {
+			name = memories_of_the_coup
+
+			removal_cost = -1
+
+			picture = memories_of_the_coup
+			
+			allowed = {
+				always = no
+			}
+			
+			modifier = {
+				stability_factor = -0.2
+				war_support_factor = -0.2
+				political_power_factor = -0.2
+			}
+		}
+	}
+}

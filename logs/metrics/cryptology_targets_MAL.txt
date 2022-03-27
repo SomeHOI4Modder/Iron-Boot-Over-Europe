@@ -1,0 +1,64 @@
+SML                             Malayan 378     
+INS                             Dutch E 144     
+SIA                             Siam    144     
+SOV                             Siberia 132     
+USA                             United  132     
+FRA                             Fourth  132     
+ENG                             United  132     
+JAP                             Japan   95.04   
+GER                             Großger 79.2    
+ITA                             Italian 79.2    
+SML                             Malayan 378     
+INS                             Dutch E 144     
+SIA                             Siam    144     
+SOV                             Siberia 132     
+USA                             United  132     
+FRA                             Fourth  132     
+ENG                             United  132     
+JAP                             Japan   95.04   
+GER                             Großger 79.2    
+ITA                             Italian 79.2    
+SML                             Malayan 378     
+INS                             Dutch E 144     
+SIA                             Siam    144     
+SOV                             Siberia 132     
+CHI                             Republi 132     
+USA                             United  132     
+FRA                             Fourth  132     
+ENG                             United  132     
+JAP                             Japan   95.04   
+GER                             Großger 79.2    
+ITA                             Italian 79.2    
+SML                             Malayan 378     
+INS                             Dutch E 144     
+SIA                             Siam    144     
+SOV                             Siberia 132     
+CHI                             Republi 132     
+USA                             United  132     
+FRA                             Fourth  132     
+ENG                             United  132     
+JAP                             Japan   95.04   
+GER                             Großger 79.2    
+ITA                             Italian 79.2    
+SML                             Malayan 378     
+INS                             Dutch E 144     
+SIA                             Siam    144     
+SOV                             Siberia 132     
+CHI                             Republi 132     
+USA                             United  132     
+FRA                             Fourth  132     
+ENG                             United  132     
+JAP                             Japan   95.04   
+GER                             Großger 79.2    
+ITA                             Italian 79.2    
+SML                             Malayan 378     
+INS                             Dutch E 144     
+SIA                             Siam    144     
+SOV                             Siberia 132     
+CHI                             Republi 132     
+USA                             United  132     
+FRA                             Fourth  132     
+ENG                             United  132     
+JAP                             Japan   95.04   
+GER                             Großger 79.2    
+ITA                             Italian 79.2    

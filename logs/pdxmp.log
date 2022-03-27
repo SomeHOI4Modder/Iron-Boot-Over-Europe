@@ -1,0 +1,198 @@
+2022-03-20 06:53:36.861 [WARN] [PDXMP] Initializing pdx_mp v0.5.6.2
+2022-03-20 06:53:36.862 [WARN] [PDXMP] Custom settings: {"settings":{"common":{"default_log_level":1,"use_sandbox":false,"network":{"sku":"HOHO01GPC0000000","platform_bound":false},"telemetry":{"universe":"steam","game_name":"hoi4"}}}}
+2022-03-20 06:53:36.866 [SPAM] [HTTP_API] Initialize
+2022-03-20 06:53:36.931 [INFO] [IpHelper] Default gateway address 192.168.18.1
+2022-03-20 06:53:36.955 [SPAM] [HTTP_API] Keep transaction handle a15152c0 id 1
+2022-03-20 06:53:36.988 [INFO] [IpHelper] Host address stun.paradox-interactive.com - 34.196.231.53
+2022-03-20 06:53:36.988 [INFO] [PDXMP] SUCCESS getting host by name
+2022-03-20 06:53:36.988 [INFO] [IpHelper] Host address stun.paradox-interactive.com - 34.196.231.53
+2022-03-20 06:53:36.990 [DEBUG] [NTP] Initializing pool.ntp.org
+2022-03-20 06:53:36.995 [DEBUG] [NetworkConnection] Start STUN test 
+2022-03-20 06:53:36.995 [DEBUG] [StunClient] Creating message
+2022-03-20 06:53:37.013 [INFO] [IpHelper] Host address pool.ntp.org - 162.159.200.123
+2022-03-20 06:53:37.023 [DEBUG] [NTP] Send Request #1
+2022-03-20 06:53:37.074 [DEBUG] [NTP] Offset: 0s -139ms, ping: 51ms
+2022-03-20 06:53:37.074 [DEBUG] [NTP] New Logging Offset applied.
+2022-03-20 06:53:37.264 [DEBUG] [StunClient] Got local address info
+2022-03-20 06:53:37.264 [DEBUG] [StunClient] Processing response
+2022-03-20 06:53:37.264 [SPAM] [StunReader] Class: Success, method: Binding
+2022-03-20 06:53:37.264 [SPAM] [StunReader] Length 48
+2022-03-20 06:53:37.264 [SPAM] [StunReader] Attribute 0001
+2022-03-20 06:53:37.264 [SPAM] [StunReader] Attribute 802b
+2022-03-20 06:53:37.264 [SPAM] [StunReader] Attribute 802c
+2022-03-20 06:53:37.264 [SPAM] [StunReader] Attribute 0020
+2022-03-20 06:53:38.461 [DEBUG] [HTTP_API] In SSL CTX callback
+2022-03-20 06:53:38.490 [WARN] [NetworkManager] Network not pumped for 100ms! Stalled 1226 ms
+2022-03-20 06:53:38.490 [DEBUG] [StunClient] Creating message
+2022-03-20 06:53:38.765 [DEBUG] [StunClient] Processing response
+2022-03-20 06:53:38.765 [SPAM] [StunReader] Class: Success, method: Binding
+2022-03-20 06:53:38.765 [SPAM] [StunReader] Length 48
+2022-03-20 06:53:38.765 [SPAM] [StunReader] Attribute 0001
+2022-03-20 06:53:38.765 [SPAM] [StunReader] Attribute 802b
+2022-03-20 06:53:38.765 [SPAM] [StunReader] Attribute 802c
+2022-03-20 06:53:38.765 [SPAM] [StunReader] Attribute 0020
+2022-03-20 06:53:38.786 [DEBUG] [StunClient] Creating message
+2022-03-20 06:53:39.122 [DEBUG] [StunClient] Resending message
+2022-03-20 06:53:39.782 [DEBUG] [StunClient] Resending message
+2022-03-20 06:53:41.076 [DEBUG] [StunClient] Resending message
+2022-03-20 06:53:43.699 [DEBUG] [StunClient] Creating message
+2022-03-20 06:53:44.203 [DEBUG] [StunClient] Resending message
+2022-03-20 06:53:45.215 [DEBUG] [StunClient] Resending message
+2022-03-20 06:53:47.210 [DEBUG] [StunClient] Resending message
+2022-03-20 06:53:51.200 [DEBUG] [StunClient] All tests done
+2022-03-20 06:53:51.200 [DEBUG] [NetworkConnection] STUN test complete 
+2022-03-20 06:53:51.200 [WARN] [NetworkConnection] Using local port 17780 
+2022-03-20 06:53:51.200 [WARN] [NetworkConnection] Mode: online
+2022-03-20 06:53:51.200 [WARN] [NetworkConnection] Local IP: 192.168.18.8:17780 public IP: 116.87.65.145:17780
+2022-03-20 06:53:51.200 [WARN] [NetworkConnection] NAT in: 4, NAT out: 2
+2022-03-20 06:53:51.221 [SPAM] [HTTP_API] Keep transaction handle c0b23480 id 2
+2022-03-20 06:53:51.242 [SPAM] [HTTP_API] Keep transaction handle c0b2c240 id 3
+2022-03-20 06:53:51.306 [DEBUG] [HTTP_API] In SSL CTX callback
+2022-03-20 06:53:51.665 [DEBUG] [TurnResolver] Regions response 200:
+{"result":"OK","regions":{"us-east":[{"host":"3.89.210.159","port":3478}],"eu-central":[{"host":"3.124.209.250","port":3478}]}}
+2022-03-20 06:53:51.665 [DEBUG] [TurnResolver] Added region us-east
+2022-03-20 06:53:51.665 [DEBUG] [TurnResolver] Added region eu-central
+2022-03-20 06:53:51.875 [SPAM] [StunReader] Class: Failure, method: Binding
+2022-03-20 06:53:51.875 [SPAM] [StunReader] Length 56
+2022-03-20 06:53:51.875 [SPAM] [StunReader] Attribute 8022
+2022-03-20 06:53:51.875 [SPAM] [StunReader] StunAttribute_Software: 'P1 STUN library'
+2022-03-20 06:53:51.875 [SPAM] [StunReader] Attribute 0009
+2022-03-20 06:53:51.875 [SPAM] [StunReader] StunAttribute_ErrorCode: 420 'Unknown Attribute'
+2022-03-20 06:53:51.875 [SPAM] [StunReader] Attribute 000a
+2022-03-20 06:53:51.917 [SPAM] [StunReader] Class: Failure, method: Binding
+2022-03-20 06:53:51.917 [SPAM] [StunReader] Length 56
+2022-03-20 06:53:51.917 [SPAM] [StunReader] Attribute 8022
+2022-03-20 06:53:51.917 [SPAM] [StunReader] StunAttribute_Software: 'P1 STUN library'
+2022-03-20 06:53:51.917 [SPAM] [StunReader] Attribute 0009
+2022-03-20 06:53:51.917 [SPAM] [StunReader] StunAttribute_ErrorCode: 420 'Unknown Attribute'
+2022-03-20 06:53:51.917 [SPAM] [StunReader] Attribute 000a
+2022-03-20 06:53:52.106 [SPAM] [StunReader] Class: Failure, method: Binding
+2022-03-20 06:53:52.106 [SPAM] [StunReader] Length 56
+2022-03-20 06:53:52.106 [SPAM] [StunReader] Attribute 8022
+2022-03-20 06:53:52.106 [SPAM] [StunReader] StunAttribute_Software: 'P1 STUN library'
+2022-03-20 06:53:52.106 [SPAM] [StunReader] Attribute 0009
+2022-03-20 06:53:52.106 [SPAM] [StunReader] StunAttribute_ErrorCode: 420 'Unknown Attribute'
+2022-03-20 06:53:52.106 [SPAM] [StunReader] Attribute 000a
+2022-03-20 06:53:52.190 [SPAM] [StunReader] Class: Failure, method: Binding
+2022-03-20 06:53:52.190 [SPAM] [StunReader] Length 56
+2022-03-20 06:53:52.190 [SPAM] [StunReader] Attribute 8022
+2022-03-20 06:53:52.190 [SPAM] [StunReader] StunAttribute_Software: 'P1 STUN library'
+2022-03-20 06:53:52.190 [SPAM] [StunReader] Attribute 0009
+2022-03-20 06:53:52.190 [SPAM] [StunReader] StunAttribute_ErrorCode: 420 'Unknown Attribute'
+2022-03-20 06:53:52.190 [SPAM] [StunReader] Attribute 000a
+2022-03-20 06:53:52.337 [SPAM] [StunReader] Class: Failure, method: Binding
+2022-03-20 06:53:52.337 [SPAM] [StunReader] Length 56
+2022-03-20 06:53:52.337 [SPAM] [StunReader] Attribute 8022
+2022-03-20 06:53:52.337 [SPAM] [StunReader] StunAttribute_Software: 'P1 STUN library'
+2022-03-20 06:53:52.337 [SPAM] [StunReader] Attribute 0009
+2022-03-20 06:53:52.337 [SPAM] [StunReader] StunAttribute_ErrorCode: 420 'Unknown Attribute'
+2022-03-20 06:53:52.337 [SPAM] [StunReader] Attribute 000a
+2022-03-20 06:53:52.463 [SPAM] [StunReader] Class: Failure, method: Binding
+2022-03-20 06:53:52.463 [SPAM] [StunReader] Length 56
+2022-03-20 06:53:52.463 [SPAM] [StunReader] Attribute 8022
+2022-03-20 06:53:52.463 [SPAM] [StunReader] StunAttribute_Software: 'P1 STUN library'
+2022-03-20 06:53:52.463 [SPAM] [StunReader] Attribute 0009
+2022-03-20 06:53:52.463 [SPAM] [StunReader] StunAttribute_ErrorCode: 420 'Unknown Attribute'
+2022-03-20 06:53:52.463 [SPAM] [StunReader] Attribute 000a
+2022-03-20 06:53:52.463 [INFO] [TurnResolver] Best TURN region is eu-central
+2022-03-20 06:53:52.464 [SPAM] [HTTP_API] Keep transaction handle c538f1c0 id 4
+2022-03-20 06:53:52.464 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:53:52.779 [DEBUG] [HTTP_API] In SSL CTX callback
+2022-03-20 06:53:58.589 [SPAM] [HTTP_API] Keep transaction handle d4e323d0 id 5
+2022-03-20 06:53:58.589 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:54:03.882 [SPAM] [HTTP_API] Keep transaction handle dbd74e00 id 6
+2022-03-20 06:54:03.882 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:54:09.158 [SPAM] [HTTP_API] Keep transaction handle f151b040 id 7
+2022-03-20 06:54:09.158 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:54:14.452 [SPAM] [HTTP_API] Keep transaction handle fc851020 id 8
+2022-03-20 06:54:14.452 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:54:19.745 [SPAM] [HTTP_API] Keep transaction handle 5ba6010 id 9
+2022-03-20 06:54:19.745 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:54:25.057 [SPAM] [HTTP_API] Keep transaction handle 4e6f010 id 10
+2022-03-20 06:54:25.057 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:54:30.333 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 11
+2022-03-20 06:54:30.333 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:54:35.611 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 12
+2022-03-20 06:54:35.611 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:54:40.904 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 13
+2022-03-20 06:54:40.904 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:54:46.184 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 14
+2022-03-20 06:54:46.184 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:54:51.478 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 15
+2022-03-20 06:54:51.478 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:54:56.772 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 16
+2022-03-20 06:54:56.772 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:55:02.063 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 17
+2022-03-20 06:55:02.063 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:55:07.352 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 18
+2022-03-20 06:55:07.352 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:55:12.636 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 19
+2022-03-20 06:55:12.636 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:55:17.918 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 20
+2022-03-20 06:55:17.918 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:55:23.213 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 21
+2022-03-20 06:55:23.213 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:55:28.482 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 22
+2022-03-20 06:55:28.482 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:55:33.771 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 23
+2022-03-20 06:55:33.771 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:55:39.061 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 24
+2022-03-20 06:55:39.061 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:55:44.332 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 25
+2022-03-20 06:55:44.332 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:55:49.611 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 26
+2022-03-20 06:55:49.611 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:55:54.892 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 27
+2022-03-20 06:55:54.892 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:56:00.177 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 28
+2022-03-20 06:56:00.177 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:56:05.462 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 29
+2022-03-20 06:56:05.462 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:56:10.749 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 30
+2022-03-20 06:56:10.749 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:56:16.053 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 31
+2022-03-20 06:56:16.053 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:56:21.344 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 32
+2022-03-20 06:56:21.344 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:56:26.619 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 33
+2022-03-20 06:56:26.619 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:56:31.905 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 34
+2022-03-20 06:56:31.905 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:56:37.198 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 35
+2022-03-20 06:56:37.198 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:56:42.480 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 36
+2022-03-20 06:56:42.480 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:56:47.754 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 37
+2022-03-20 06:56:47.754 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:56:53.032 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 38
+2022-03-20 06:56:53.032 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:56:58.328 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 39
+2022-03-20 06:56:58.328 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:57:03.643 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 40
+2022-03-20 06:57:03.643 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:57:08.931 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 41
+2022-03-20 06:57:08.931 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:57:14.204 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 42
+2022-03-20 06:57:14.204 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:57:19.488 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 43
+2022-03-20 06:57:19.488 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:57:24.772 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 44
+2022-03-20 06:57:24.772 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:57:30.040 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 45
+2022-03-20 06:57:30.040 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:57:35.313 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 46
+2022-03-20 06:57:35.313 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:57:40.588 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 47
+2022-03-20 06:57:40.588 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:57:45.862 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 48
+2022-03-20 06:57:45.862 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:57:51.128 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 49
+2022-03-20 06:57:51.128 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:57:56.419 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 50
+2022-03-20 06:57:56.419 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:58:01.710 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 51
+2022-03-20 06:58:01.710 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:58:06.989 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 52
+2022-03-20 06:58:06.989 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2022-03-20 06:58:12.259 [SPAM] [HTTP_API] Keep transaction handle 2b4e010 id 53
+2022-03-20 06:58:12

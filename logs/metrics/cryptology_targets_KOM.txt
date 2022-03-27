@@ -1,0 +1,110 @@
+D04                             Komi Re 432     
+D09                             Komi So 432     
+D08                             Komi St 432     
+D03                             New Per 432     
+D06                             Komi So 378     
+D07                             Komi So 315     
+D05                             Komi St 315     
+SOV                             Union o 158.4   
+UKR                             Reichsk 144     
+GER                             Großger 132     
+ITA                             Italian 132     
+JAP                             Japan   132     
+VGE                             Republi 86.4    
+USA                             United  79.2    
+FRA                             Fourth  79.2    
+ENG                             United  79.2    
+D04                             Komi Re 432     
+D09                             Komi So 432     
+D08                             Komi St 432     
+D03                             New Per 432     
+D06                             Komi So 378     
+D07                             Komi So 315     
+D05                             Komi St 315     
+SOV                             Union o 158.4   
+UKR                             Reichsk 144     
+GER                             Großger 132     
+ITA                             Italian 132     
+JAP                             Japan   132     
+VGE                             Republi 86.4    
+USA                             United  79.2    
+FRA                             Fourth  79.2    
+ENG                             United  79.2    
+D04                             Komi Re 432     
+D09                             Komi So 432     
+D08                             Komi St 432     
+D03                             New Per 432     
+D06                             Komi So 378     
+D07                             Komi So 315     
+D05                             Komi St 315     
+SOV                             Union o 158.4   
+UKR                             Reichsk 144     
+GER                             Großger 132     
+ITA                             Italian 132     
+JAP                             Japan   132     
+VGE                             Republi 86.4    
+USA                             United  79.2    
+FRA                             Fourth  79.2    
+ENG                             United  79.2    
+D04                             Komi Re 432     
+D09                             Komi So 432     
+D08                             Komi St 432     
+D03                             New Per 432     
+D06                             Komi So 378     
+D07                             Komi So 315     
+D05                             Komi St 315     
+SOV                             Union o 158.4   
+UKR                             Reichsk 144     
+GER                             Großger 132     
+ITA                             Italian 132     
+JAP                             Japan   132     
+VGE                             Republi 86.4    
+USA                             United  79.2    
+FRA                             Fourth  79.2    
+ENG                             United  79.2    
+D04                             Komi Re 432     
+D09                             Komi So 432     
+D08                             Komi St 432     
+D03                             New Per 432     
+D06                             Komi So 378     
+D07                             Komi So 315     
+D05                             Komi St 315     
+SOV                             Union o 158.4   
+UKR                             Reichsk 144     
+GER                             Großger 132     
+ITA                             Italian 132     
+JAP                             Japan   132     
+VGE                             Republi 86.4    
+USA                             United  79.2    
+FRA                             Fourth  79.2    
+ENG                             United  79.2    
+D04                             Komi Re 432     
+D09                             Komi So 432     
+D03                             New Per 432     
+D06                             Komi So 378     
+D07                             Komi So 315     
+D05                             Komi St 315     
+SOV                             Union o 158.4   
+UKR                             Reichsk 144     
+GER                             Großger 132     
+ITA                             Italian 132     
+JAP                             Japan   132     
+VGE                             Republi 86.4    
+USA                             United  79.2    
+FRA                             Fourth  79.2    
+ENG                             United  79.2    
+D04                             Komi Re 432     
+D09                             Komi So 432     
+D03                             New Per 432     
+D06                             Komi So 378     
+D07                             Komi So 315     
+D05                             Komi St 315     
+SOV                             Union o 158.4   
+UKR                             Reichsk 144     
+GER                             Großger 132     
+ITA                             Italian 132     
+JAP                             Japan   132     
+VGE                             Republi 86.4    
+USA                             United  79.2    
+FRA                             Fourth  79.2    
+ENG                             United  79.2    

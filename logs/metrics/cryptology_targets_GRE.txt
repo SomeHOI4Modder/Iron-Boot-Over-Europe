@@ -1,0 +1,9 @@
+ITA                             Italian 158.4   
+SOV                             Union o 132     
+JAP                             Japan   132     
+USA                             United  132     
+FRA                             Fourth  132     
+ENG                             United  132     
+TUR                             Turkey  86.4    
+BUL                             Bulgari 86.4    
+POL                             Poland  79.2    

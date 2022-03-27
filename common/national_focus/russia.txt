@@ -1,0 +1,297 @@
+﻿### search_filters = {FOCUS_FILTER_POLITICAL}
+### search_filters = {FOCUS_FILTER_RESEARCH}
+### search_filters = {FOCUS_FILTER_INDUSTRY}
+### search_filters = {FOCUS_FILTER_STABILITY}
+### search_filters = {FOCUS_FILTER_WAR_SUPPORT}
+### search_filters = {FOCUS_FILTER_MANPOWER}
+### search_filters = {FOCUS_FILTER_ANNEXATION}
+### search_filters = {FOCUS_FILTER_ARMY_XP}
+### search_filters = {FOCUS_FILTER_NAVY_XP}
+### search_filters = {FOCUS_FILTER_AIR_XP}
+# Reminder that focus filters prio has to be handled in the generic focus file :)
+
+
+focus_tree = {
+	id = russia_initial
+
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = RUS
+		}
+	}
+	
+	default = no
+
+	#continuous_focus_position = { x = 55 y = 20000 }
+
+	focus = {
+		id = RUS_peace_at_last
+		icon = GFX_focus_RUS_generals_clique
+		x = 9
+		y = 0
+		cost = 2
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+
+		}
+		
+		search_filters = {FOCUS_FILTER_POLITICAL}
+
+		completion_reward = {
+			add_political_power = 20
+		}
+	}
+
+	focus = {
+		id = RUS_failures_of_barbarossa
+		icon = GFX_focus_RUS_generals_clique
+		x = 7
+		y = 1
+		cost = 2
+
+		ai_will_do = {
+			factor = 1
+		}
+		
+		prerequisite = {
+			focus = RUS_peace_at_last
+		}
+
+		available = {
+
+		}
+		
+		search_filters = {FOCUS_FILTER_ARMY_XP}
+
+		completion_reward = {
+			army_experience = 15
+		}
+	}
+
+	focus = {
+		id = RUS_the_far_eastern_front
+		icon = GFX_focus_RUS_generals_clique
+		x = 11
+		y = 1
+		cost = 2
+
+		ai_will_do = {
+			factor = 1
+		}
+		
+		prerequisite = {
+			focus = RUS_peace_at_last
+		}
+
+		available = {
+
+		}
+		
+		search_filters = {FOCUS_FILTER_ARMY_XP}
+
+		completion_reward = {
+			army_experience = 10
+		}
+	}
+
+	focus = {
+		id = RUS_the_paralysed_red_army
+		icon = GFX_focus_RUS_generals_clique
+		x = 7
+		y = 2
+		cost = 5
+
+		ai_will_do = {
+			factor = 1
+		}
+		
+		prerequisite = {
+			focus = RUS_failures_of_barbarossa
+		}
+
+		available = {
+
+		}
+		
+		search_filters = {FOCUS_FILTER_ARMY_XP}
+
+		completion_reward = {
+			army_experience = 10
+		}
+	}
+
+	focus = {
+		id = RUS_the_pathetic_air_force
+		icon = GFX_focus_RUS_generals_clique
+		x = 9
+		y = 2
+		cost = 5
+
+		ai_will_do = {
+			factor = 1
+		}
+		prerequisite = {
+			focus = RUS_failures_of_barbarossa
+			focus = RUS_the_far_eastern_front
+		}
+
+		available = {
+
+		}
+		
+		search_filters = {FOCUS_FILTER_ARMY_XP}
+
+		completion_reward = {
+			army_experience = 10
+		}
+	}
+
+	focus = {
+		id = RUS_the_frostbitten_army
+		icon = GFX_focus_RUS_generals_clique
+		x = 11
+		y = 2
+		cost = 5
+
+		ai_will_do = {
+			factor = 1
+		}
+		
+		prerequisite = {
+			focus = RUS_the_far_eastern_front
+		}
+		prerequisite = {
+			focus = RUS_failures_of_barbarossa
+		}
+
+		available = {
+
+		}
+		
+		search_filters = {FOCUS_FILTER_ARMY_XP}
+
+		completion_reward = {
+			army_experience = 10
+		}
+	}
+
+	focus = {
+		id = RUS_the_race_for_dominance
+		icon = GFX_focus_RUS_generals_clique
+		x = 9
+		y = 3
+		cost = 2
+
+		ai_will_do = {
+			factor = 1
+		}
+		
+		prerequisite = {
+			focus = RUS_the_paralysed_red_army
+		}
+		prerequisite = {
+			focus = RUS_the_pathetic_air_force
+		}
+		prerequisite = {
+			focus = RUS_the_frostbitten_army
+		}
+
+		available = {
+
+		}
+
+		completion_reward = {
+			country_event = { days = 0 id = russia.1 }
+			custom_effect_tooltip = RUS_the_race_for_dominance_tt
+		}
+	}
+
+	focus = {
+		id = RUS_the_generals_clique
+		icon = GFX_focus_RUS_generals_clique
+		x = 4
+		y = 4
+		cost = 5
+
+		ai_will_do = {
+			factor = 0.75
+		}
+
+		mutually_exclusive = { focus = RUS_the_stavka }
+		
+		prerequisite = {
+			focus = RUS_the_race_for_dominance
+		}
+
+		available = {
+				always = no
+		}
+		
+		search_filters = {FOCUS_FILTER_ARMY_XP}
+
+		completion_reward = {
+			custom_effect_tooltip = RUS_the_generals_clique_tt
+		}
+	}
+
+	focus = {
+		id = RUS_the_stavka
+		icon = GFX_focus_RUS_generals_clique
+		x = 14
+		y = 4
+		cost = 5
+
+		ai_will_do = {
+			factor = 0.25
+		}
+
+		mutually_exclusive = { focus = RUS_the_generals_clique }
+		
+		prerequisite = {
+			focus = RUS_the_race_for_dominance
+		}
+
+		available = {
+				always = no
+		}
+		
+		search_filters = {FOCUS_FILTER_ARMY_XP}
+
+		completion_reward = {
+			custom_effect_tooltip = RUS_the_stavka_tt
+		}
+	}
+
+	focus = {
+		id = RUS_our_economy_in_ruins
+		icon = GFX_focus_RUS_generals_clique
+		x = 9
+		y = 5
+		cost = 5
+
+		ai_will_do = {
+			factor = 1
+		}
+		
+		prerequisite = {
+			focus = RUS_the_race_for_dominance
+		}
+
+		available = {
+				always = no
+		}
+		
+		search_filters = {FOCUS_FILTER_ARMY_XP}
+
+		completion_reward = {
+			custom_effect_tooltip = RUS_our_economy_in_ruins_tt
+		}
+	}
+}

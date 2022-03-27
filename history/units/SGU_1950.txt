@@ -1,0 +1,89 @@
+﻿##### Division Templates #####
+division_template = {
+	name = "Partizanskiy Otryad"			# NKVD Border Guard Division - Garrison units (older experience, older equipment)
+	division_names_group = SGU_INF_01
+
+	regiments = {
+		infantry = { x = 0 y = 0 }	
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+	}
+	priority = 1
+	is_locked = yes 
+}
+
+
+##### OOB #####
+units = {
+	#GULAG Uprising
+		#Surgut Militia
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 1
+		}
+		location = 12639
+		division_template = "Partizanskiy Otryad"
+		force_equipment_variants = { infantry_equipment_0 = { owner = "SGU" } }
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.50
+
+	}
+		#Surgut Militia
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 2
+		}
+		location = 4730
+		division_template = "Partizanskiy Otryad"
+		force_equipment_variants = { infantry_equipment_0 = { owner = "SGU" } }
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.50
+
+	}
+		#Yeniseisk Militia
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 3
+		}
+		location = 10576
+		division_template = "Partizanskiy Otryad"
+		force_equipment_variants = { infantry_equipment_0 = { owner = "SGU" } }
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.50
+
+	}
+		#Yeniseisk Militia
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 4
+		}
+		location = 10544
+		division_template = "Partizanskiy Otryad"
+		force_equipment_variants = { infantry_equipment_0 = { owner = "SGU" } }
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.50
+
+	}
+		#Yeniseisk Militia
+	division= {	
+		division_name = {
+			is_name_ordered = yes
+			name_order = 5
+		}
+		location = 7863
+		division_template = "Partizanskiy Otryad"
+		force_equipment_variants = { infantry_equipment_0 = { owner = "SGU" } }
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.50
+
+	}
+}
+
+instant_effect = {
+	add_manpower = 15600
+}

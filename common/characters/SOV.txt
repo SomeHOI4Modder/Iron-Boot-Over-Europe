@@ -1,0 +1,203 @@
+# Aleksandra Kollontay has an unsed portrait
+# Viktor Baydalakov has an unused portrait
+
+characters = {
+	#Country Leaders
+
+	SOV_nikita_khrushchyov = {
+		name = SOV_nikita_khrushchyov
+		portraits = {
+			civilian  = {
+				small = "GFX_idea_nikita_khrushchev"
+				large = "GFX_portrait_SOV_nikita_khrushchev"
+			}
+		}
+
+		advisor = {
+			slot = political_advisor
+			idea_token = nikita_khrushchyov
+			allowed = {
+				original_tag = SOV
+			}
+			visible = {
+				NOT = {
+					has_character_flag = SOV_character_purged_flag 
+				}
+			}
+			traits = {
+				political_commissar 
+			}
+		}
+		country_leader = {
+			ideology = stalinism
+			traits = { brutal_dictator }
+			id = -1
+		}
+	}
+
+
+	SOV_lavrenty_beriya = {
+		name = SOV_lavrenty_beriya
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_SOV_lavrenty_beriya"
+			}
+			army = {
+				small = "GFX_idea_SOV_lavrenty_beriya"
+			}
+		}
+		country_leader = {
+			ideology = stalinism
+			traits = { brutal_dictator }
+			id = -1
+		}
+	}
+
+
+
+#Army Leaders
+
+	SOV_semyon_timoshenko = {
+		name = SOV_semyon_timoshenko
+		portraits = {
+			army = {
+				small = "GFX_idea_semyon_timoshenko"
+				large = "GFX_portrait_SOV_semyon_timoshenko"
+			}
+		}
+		advisor = {
+			slot = army_chief
+			idea_token = semyon_timoshenko
+			allowed = {
+				original_tag = SOV
+			}
+			available = {
+				hidden_trigger = {
+					NOT = {
+						any_other_country = {
+							has_war_with = SOV
+							original_tag = SOV
+							has_unit_leader = 404.000
+						}
+					}
+				}
+				if = {
+					limit = {
+						has_character_flag = SOV_exiled_flag
+					}
+					NOT = { has_character_flag = SOV_exiled_flag }
+				}
+			}
+			traits = {
+				army_chief_reform_2
+			}
+				cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+
+		corps_commander = {
+			traits = { career_officer cavalry_officer politically_connected }
+			skill = 3
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 3
+			legacy_id = 404
+			visible = { NOT = { has_character_flag = SOV_exiled_flag } }
+		}
+	}
+
+	SOV_grigory_kulik = {
+		name = SOV_grigory_kulik
+		portraits = {
+			army = {
+				large = GFX_portrait_SOV_grigory_kulik
+				small=GFX_portrait_SOV_grigory_kulik_small
+			}
+		}
+		corps_commander = {
+			traits = { old_guard inflexible_strategist career_officer politically_connected }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = 0
+			visible = { NOT = { has_character_flag = SOV_exiled_flag } }
+		}
+	}
+
+	SOV_rodion_malinovsky = {
+		name = SOV_rodion_malinovsky
+		portraits = {
+			army = {
+				large = GFX_portrait_SOV_rodion_malinovsky
+				small=GFX_portrait_SOV_rodion_malinovsky_small
+			}
+		}
+		corps_commander = {
+			traits = { old_guard career_officer trait_cautious politically_connected }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = 0
+			visible = { NOT = { has_character_flag = SOV_exiled_flag } }
+		}
+	}
+
+	SOV_aleksandr_vasilevsky = {
+		name = SOV_aleksandr_vasilevsky
+		portraits = {
+			army = {
+				small = "GFX_idea_SOV_aleksandr_vasilevsky"
+				large = "GFX_portrait_SOV_aleksandr_vasilevsky"
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer politically_connected }
+			skill = 4
+			attack_skill = 4
+			defense_skill = 4
+			planning_skill = 3
+			logistics_skill = 2
+			legacy_id = 407
+			visible = { NOT = { has_character_flag = SOV_exiled_flag } }
+		}
+
+		advisor = {
+			slot = high_command
+			idea_token = aleksandr_vasilevsky
+			ledger = army
+			allowed = {
+				original_tag = SOV
+			}
+			available = {
+				hidden_trigger = {
+					NOT = {
+						any_other_country = {
+							has_war_with = SOV
+							original_tag = SOV
+							has_unit_leader = 407.000
+						}
+					}
+				}
+				if = {
+					limit = {
+						has_character_flag = SOV_exiled_flag
+					}
+					NOT = { has_character_flag = SOV_exiled_flag }
+				}
+			}
+			traits = {
+				army_regrouping_2
+			}
+				cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}	
+	}

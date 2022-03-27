@@ -1,0 +1,32 @@
+
+state={
+	id=820
+	name="STATE_820"
+
+	history={
+		owner = MON
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {
+			1791 1 
+		}
+		victory_points = {
+			1834 1 
+		}
+		add_core_of = MON
+		add_core_of = MEN
+	
+		set_demilitarized_zone = yes
+
+	}
+
+	provinces={
+		1689 1791 1834 4697 4882 7799 12579 12649 12675 
+	}
+	manpower=88200
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

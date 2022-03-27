@@ -1,0 +1,11 @@
+SOV                             Union o 158.4   
+HUN                             Kingdom 144     
+BUL                             Bulgari 144     
+POL                             Poland  144     
+SER                             Serbian 138     
+JAP                             Japan   132     
+GER                             Großger 132     
+ITA                             Italian 132     
+USA                             United  79.2    
+FRA                             Fourth  79.2    
+ENG                             United  79.2    

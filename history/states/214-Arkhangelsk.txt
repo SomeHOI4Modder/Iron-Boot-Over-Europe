@@ -1,0 +1,39 @@
+
+state={
+	id=214
+	name="STATE_214"
+
+	history={
+		owner = MOS
+		victory_points = {
+			3338 5 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 3
+			3338 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = MOS
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		72 183 312 3064 3065 3075 3080 3130 3166 3168 3338 6075 6088 6102 6166 6199 9101 9130 9187 9248 11074 11171 
+	}
+	manpower=1050883
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

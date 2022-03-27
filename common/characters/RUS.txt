@@ -1,0 +1,337 @@
+# Aleksandra Kollontay has an unsed portrait
+# Viktor Baydalakov has an unused portrait
+
+characters = {
+
+
+  ####    ####   #    #  #    #  #####  #####   #   #      #       ######    ##    #####   ######  #####    ####  
+ #    #  #    #  #    #  ##   #    #    #    #   # #       #       #        #  #   #    #  #       #    #  #      
+ #       #    #  #    #  # #  #    #    #    #    #        #       #####   #    #  #    #  #####   #    #   ####  
+ #       #    #  #    #  #  # #    #    #####     #        #       #       ######  #    #  #       #####        # 
+ #    #  #    #  #    #  #   ##    #    #   #     #        #       #       #    #  #    #  #       #   #   #    # 
+  ####    ####    ####   #    #    #    #    #    #        ######  ######  #    #  #####   ######  #    #   ####  
+                                                                                                                  
+
+	SOV_georgy_zhukov = {
+		name = SOV_georgy_zhukov
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SOV_georgy_zhukov
+			}
+			army = {
+				small = "GFX_idea_georgy_zhukov"
+				large = GFX_portrait_SOV_georgy_zhukov
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			traits = { grand_marshal }
+			expire = "1953.3.1.1"
+			id = -1
+		}
+
+		field_marshal = {
+			traits = { media_personality armor_officer war_hero winter_specialist }
+			skill = 5
+			attack_skill = 5
+			defense_skill = 2
+			planning_skill = 4
+			logistics_skill = 5
+			legacy_id = 410
+			visible = { NOT = { has_character_flag = SOV_exiled_flag } }
+		}
+	}
+
+
+   # #    #####   #    #  #   #      #        ######    ##    #####   ######  #####    ####  
+  #   #   #    #  ##  ##   # #       #        #        #  #   #    #  #       #    #  #      
+ #     #  #    #  # ## #    #        #        #####   #    #  #    #  #####   #    #   ####  
+ #######  #####   #    #    #        #        #       ######  #    #  #       #####        # 
+ #     #  #   #   #    #    #        #        #       #    #  #    #  #       #   #   #    # 
+ #     #  #    #  #    #    #        #######  ######  #    #  #####   ######  #    #   ####  
+                
+
+	SOV_konstantin_rokossovsky = {
+		name = SOV_konstantin_rokossovsky
+
+		portraits = {
+			army = {
+				small = "GFX_idea_konstantin_rokossovsky"
+				large = GFX_portrait_SOV_konstantin_rokossovsky
+			}
+		}
+
+		field_marshal = {
+			traits = { brilliant_strategist trait_cautious armor_officer }
+			skill = 4
+			attack_skill = 3
+			defense_skill = 4
+			planning_skill = 2
+			logistics_skill = 4
+			legacy_id = 402
+			visible = { NOT = { has_character_flag = SOV_exiled_flag } }
+		}
+
+		advisor = {
+			slot = high_command
+			idea_token = konstantin_rokossovsky
+			ledger = army
+			allowed = {
+				original_tag = SOV
+				hidden_trigger = {
+					NOT = {
+						any_other_country = {
+							has_war_with = SOV
+							original_tag = SOV
+							has_unit_leader = 403.000
+						}
+					}
+				}
+			}
+			available = {
+				has_completed_focus = SOV_positive_heroism
+				if = {
+					limit = {
+						has_character_flag = SOV_exiled_flag
+					}
+					NOT = { has_character_flag = SOV_exiled_flag }
+				}
+			}
+			traits = {
+				army_armored_3
+			}
+				cost = 200
+			ai_will_do = {
+				factor = 1.000
+			}
+		}		
+	}
+
+	SOV_boris_shaposhnikov = {
+		name = SOV_boris_shaposhnikov
+		portraits = {
+			army = {
+				small = "GFX_idea_boris_shaposhnikov"
+				large = GFX_portrait_SOV_boris_shaposhnikov
+			}
+		}
+		advisor = {
+			cost = 100
+			slot = theorist
+			idea_token = boris_shaposhnikov
+			ledger = army
+			allowed = {
+				original_tag = SOV
+			}
+			traits = {
+				military_theorist
+			}
+		}
+
+		corps_commander = {
+			traits = { career_officer trait_cautious }
+			skill = 3
+			attack_skill = 2
+			defense_skill = 3
+			planning_skill = 2
+			logistics_skill = 3
+			legacy_id = 0
+			visible = { NOT = { has_character_flag = SOV_exiled_flag } }
+		}
+	}
+	SOV_semyon_budyonny = {
+		name = SOV_semyon_budyonny
+		portraits = {
+			army = {
+				large = "GFX_portrait_SOV_semyon_budyonny"
+				small=GFX_portrait_SOV_semyon_budyonny_small
+			}
+		}
+		field_marshal = {
+			traits = { old_guard inflexible_strategist politically_connected }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = 0
+			visible = { NOT = { has_character_flag = SOV_exiled_flag } }
+		}
+	}
+
+	SOV_kliment_voroshilov = {
+		name = SOV_kliment_voroshilov
+
+		portraits = {
+			army = {
+				small = "GFX_idea_kliment_voroshilov"
+				large = GFX_portrait_SOV_kliment_voroshilov
+			}
+		}
+		advisor = {
+			slot = army_chief
+			idea_token = kliment_voroshilov
+			allowed = {
+				original_tag = SOV
+			}
+			available = {
+				hidden_trigger = {
+					NOT = {
+						any_other_country = {
+							has_war_with = SOV
+							original_tag = SOV
+							has_unit_leader = 405.000
+						}
+					}
+				}
+				if = {
+					limit = {
+						has_character_flag = SOV_exiled_flag
+					}
+					NOT = { has_character_flag = SOV_exiled_flag }
+				}
+			}
+			traits = {
+				army_chief_drill_1
+			}
+				cost = 50
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+
+		field_marshal = {
+			traits = { old_guard inflexible_strategist politically_connected }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = 405
+			visible = { NOT = { has_character_flag = SOV_exiled_flag } }
+		}
+	}
+
+	SOV_ivan_chernyakhovsky = {
+		name = SOV_ivan_chernyakhovsky
+		portraits = {
+			army = {
+				large = "GFX_portrait_SOV_ivan_chernyakhovsky"
+				small= "GFX_idea_SOV_ivan_chernyakhovsky"
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = 413
+			visible = { NOT = { has_character_flag = SOV_exiled_flag } }
+		}
+	}
+
+	SOV_kirill_meretskov = {
+		name = SOV_kirill_meretskov
+		portraits = {
+			army = {
+				large = GFX_portrait_SOV_kirill_meretskov
+				small=GFX_portrait_SOV_kirill_meretskov_small
+			}
+		}
+		corps_commander = {
+			traits = { trait_reckless infantry_officer }
+			skill = 3
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 3
+			legacy_id = 0
+			visible = { NOT = { has_character_flag = SOV_exiled_flag } }
+		}
+	}
+
+	SOV_leonid_govorov = {
+		name = SOV_leonid_govorov
+		portraits = {
+			army = {
+				large = "GFX_portrait_SOV_leonid_govorov"
+				small= "GFX_idea_SOV_leonid_govorov"
+			}
+		}
+		corps_commander = {
+			skill = 3
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 2
+			legacy_id = 0
+			visible = { NOT = { has_character_flag = SOV_exiled_flag } }
+		}
+	}
+
+	SOV_filipp_golikov = {
+		name = SOV_filipp_golikov
+		portraits = {
+			army = {
+				large = "GFX_portrait_SOV_filipp_golikov"
+				small= "GFX_idea_SOV_filipp_golikov"
+			}
+		}
+		corps_commander = {
+			traits = { career_officer }
+			skill = 3
+			attack_skill = 3
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 1
+			legacy_id = 0
+			visible = { NOT = { has_character_flag = SOV_exiled_flag } }
+		}
+	}
+
+	SOV_vasily_chuykov = {
+		name = SOV_vasily_chuykov
+		portraits = {
+			army = {
+				large = GFX_portrait_SOV_vasily_chuykov
+				small=GFX_portrait_SOV_vasily_chuykov_small
+			}
+		}
+		field_marshal = {
+			traits = { brilliant_strategist career_officer }
+			skill = 3
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = 0
+			visible = { NOT = { has_character_flag = SOV_exiled_flag } }
+		}
+	}
+
+######################
+#### NAVY LEADRES ####
+######################
+
+	SOV_filipp_oktyabrsky = {
+		name = SOV_filipp_oktyabrsky
+		portraits = {
+			army = {
+				large = GFX_portrait_SOV_filipp_oktyabrsky
+				small=GFX_portrait_SOV_filipp_oktyabrsky_small
+			}
+		}
+		navy_leader = {
+			traits = { ironside ground_pounder }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 2
+			maneuvering_skill = 1
+			coordination_skill = 1
+			legacy_id = 0
+			visible = { NOT = { has_character_flag = SOV_exiled_flag } }
+		}
+	}
+}

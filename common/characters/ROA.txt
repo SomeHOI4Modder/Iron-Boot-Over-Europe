@@ -1,0 +1,66 @@
+# Aleksandra Kollontay has an unsed portrait
+# Viktor Baydalakov has an unused portrait
+
+characters = {
+
+
+  ####    ####   #    #  #    #  #####  #####   #   #      #       ######    ##    #####   ######  #####    ####  
+ #    #  #    #  #    #  ##   #    #    #    #   # #       #       #        #  #   #    #  #       #    #  #      
+ #       #    #  #    #  # #  #    #    #    #    #        #       #####   #    #  #    #  #####   #    #   ####  
+ #       #    #  #    #  #  # #    #    #####     #        #       #       ######  #    #  #       #####        # 
+ #    #  #    #  #    #  #   ##    #    #   #     #        #       #       #    #  #    #  #       #   #   #    # 
+  ####    ####    ####   #    #    #    #    #    #        ######  ######  #    #  #####   ######  #    #   ####  
+                                                                                                                  
+
+	ROA_andrey_vlasov = {
+		name = ROA_andrey_vlasov
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SOV_andrey_vlasov
+			}
+			army = {
+				large = GFX_portrait_SOV_andrey_vlasov
+				small= GFX_portrait_SOV_andrey_vlasov_small
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			traits = { brutal_dictator }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		field_marshal = {
+			traits = { infantry_officer winter_specialist }
+			skill = 3
+			attack_skill = 3
+			defense_skill = 3
+			planning_skill = 1
+			logistics_skill = 3
+			legacy_id = 0
+			visible = {
+				if = {
+					limit = {
+						SOV = { has_country_flag = vlasov_owner_flag }
+					}
+					NOT = { has_character_flag = SOV_exiled_flag }
+				}
+				if = {
+					limit = {
+						GER = { has_country_flag = vlasov_owner_flag }
+					}
+					NOT = {
+						has_character_flag = vlasov_imprisoned_flag
+					}
+				}
+			}
+		}
+	}
+
+
+   # #    #####   #    #  #   #      #        ######    ##    #####   ######  #####    ####  
+  #   #   #    #  ##  ##   # #       #        #        #  #   #    #  #       #    #  #      
+ #     #  #    #  # ## #    #        #        #####   #    #  #    #  #####   #    #   ####  
+ #######  #####   #    #    #        #        #       ######  #    #  #       #####        # 
+ #     #  #   #   #    #    #        #        #       #    #  #    #  #       #   #   #    # 
+ #     #  #    #  #    #    #        #######  ######  #    #  #####   ######  #    #   ####  }

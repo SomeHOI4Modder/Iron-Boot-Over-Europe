@@ -1,0 +1,19 @@
+state={
+	id=859
+	name="STATE_859"
+	history={
+		owner = SML
+		add_core_of = SML
+		MAL = {
+			set_province_controller = 1376
+		}
+
+	}
+	provinces={
+		1364 1376 7342 12215 
+	}
+	manpower=1465700
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

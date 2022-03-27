@@ -1,0 +1,707 @@
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:52) id: Rifle Division id:5 name:%dya 'Vitebskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:53) id: Rifle Division id:6 name:%dya 'Orlovskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:54) id: Rifle Division id:7 name:%dya 'Chernigovskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:55) id: Rifle Division id:8 name:%dya 'Minskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:56) id: Rifle Division id:16 name:%dya 'Ul'yanovskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:57) id: Rifle Division id:18 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:58) id: Rifle Division id:21 name:%dya 'Permskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:59) id: Rifle Division id:22 name:%dya 'Krasnodarskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:60) id: Rifle Division id:23 name:%dya 'Har'kovskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:61) id: Rifle Division id:24 name:%dya 'Samaro-Ul'yanov.' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:62) id: Rifle Division id:38 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:63) id: Rifle Division id:49 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:64) id: Rifle Division id:51 name:%dya 'Perekopskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:65) id: Rifle Division id:2 name:%dya 'Belorusskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:66) id: Rifle Division id:15 name:%dya 'Sivashskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:67) id: Rifle Division id:31 name:%dya 'Stalingradskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:68) id: Rifle Division id:37 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:69) id: Rifle Division id:56 name:%dya 'Moskva' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:70) id: Rifle Division id:57 name:%dya 'Ural'skaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:71) id: Rifle Division id:17 name:%dya 'Gor'kovskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:72) id: Rifle Division id:27 name:%dya 'Omskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:73) id: Rifle Division id:29 name:%dya 'Sibirskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:74) id: Rifle Division id:33 name:%dya 'Belorusskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:75) id: Rifle Division id:48 name:%dya ''Kashino-Tverskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:76) id: Rifle Division id:3 name:%dya 'Tihookeanskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:77) id: Rifle Division id:4 name:%dya 'Smolenskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:78) id: Rifle Division id:74 name:%dya 'Tamanskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:79) id: Rifle Division id:10 name:%dya 'Severnogo Kraya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:80) id: Rifle Division id:13 name:%dya 'Dagestanskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:81) id: Rifle Division id:14 name:%dya 'Krivorozhskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:82) id: Rifle Division id:19 name:%dya 'Voronezhskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:83) id: Rifle Division id:39 name:%dya 'Tihookeanskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:84) id: Rifle Division id:12 name:%dya 'Amur' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:85) id: Rifle Division id:46 name:%dya 'Dnepropetrovskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:86) id: Rifle Division id:80 name:%dya 'Donbassa' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:87) id: Rifle Division id:81 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:88) id: Rifle Division id:84 name:%dya 'Tul'skogo' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:89) id: Rifle Division id:95 name:%dya 'Moldavskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:90) id: Rifle Division id:1 name:%dya 'Moskva Proletarskaya' Motostrelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:91) id: Rifle Division id:43 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:92) id: Rifle Division id:99 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:93) id: Rifle Division id:100 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:94) id: Rifle Division id:25 name:%dya 'Chapaevskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:95) id: Rifle Division id:40 name:%dya 'Bogucharskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:96) id: Rifle Division id:41 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:97) id: Rifle Division id:55 name:%dya 'Kurskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:98) id: Rifle Division id:62 name:%dya 'Turkestanskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:99) id: Rifle Division id:75 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:100) id: Rifle Division id:53 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:101) id: Rifle Division id:65 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:102) id: Rifle Division id:85 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:103) id: Rifle Division id:59 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:104) id: Rifle Division id:66 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:105) id: Rifle Division id:69 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:106) id: Rifle Division id:78 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:107) id: Rifle Division id:82 name:%dya Motostrelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:108) id: Rifle Division id:94 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:109) id: Rifle Division id:61 name:%dya 'Turkestanskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:110) id: Rifle Division id:32 name:%dya 'Saratovskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:111) id: Rifle Division id:34 name:%dya 'Srednevolzhskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:112) id: Rifle Division id:35 name:%dya 'Sibirskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:113) id: Rifle Division id:36 name:%dya 'Zabajkal'skaya'Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:114) id: Rifle Division id:70 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:115) id: Rifle Division id:71 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:116) id: Rifle Division id:54 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:117) id: Rifle Division id:64 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:118) id: Rifle Division id:73 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:119) id: Rifle Division id:26 name:%dya 'Zlatoustovskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:120) id: Rifle Division id:52 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:121) id: Rifle Division id:87 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:122) id: Rifle Division id:11 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:123) id: Rifle Division id:45 name:%dya 'Volynskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:124) id: Rifle Division id:97 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:125) id: Rifle Division id:98 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:126) id: Rifle Division id:108 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:127) id: Rifle Division id:116 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:128) id: Rifle Division id:111 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:129) id: Rifle Division id:67 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:130) id: Rifle Division id:93 name:%dya 'Vostochno-Sibir.' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:131) id: Rifle Division id:92 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:132) id: Rifle Division id:50 name:%dya 'Tamanskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:133) id: Rifle Division id:105 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:134) id: Rifle Division id:86 name:%dya 'Kazanskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:135) id: Rifle Division id:90 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:136) id: Rifle Division id:104 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:137) id: Rifle Division id:118 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:138) id: Rifle Division id:126 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:139) id: Rifle Division id:127 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:140) id: Rifle Division id:129 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:141) id: Rifle Division id:130 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:142) id: Rifle Division id:132 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:143) id: Rifle Division id:133 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:144) id: Rifle Division id:134 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:145) id: Rifle Division id:135 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:146) id: Rifle Division id:136 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:147) id: Rifle Division id:137 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:148) id: Rifle Division id:139 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:149) id: Rifle Division id:140 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:150) id: Rifle Division id:141 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:151) id: Rifle Division id:142 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:152) id: Rifle Division id:143 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:153) id: Rifle Division id:144 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:154) id: Rifle Division id:145 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:155) id: Rifle Division id:146 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:156) id: Rifle Division id:148 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:157) id: Rifle Division id:149 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:158) id: Rifle Division id:150 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:159) id: Rifle Division id:151 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:160) id: Rifle Division id:152 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:161) id: Rifle Division id:155 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:162) id: Rifle Division id:156 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:163) id: Rifle Division id:157 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:164) id: Rifle Division id:158 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:165) id: Rifle Division id:159 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:166) id: Rifle Division id:160 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:167) id: Rifle Division id:162 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:168) id: Rifle Division id:164 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:169) id: Rifle Division id:166 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:170) id: Rifle Division id:168 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:171) id: Rifle Division id:169 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:172) id: Rifle Division id:170 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:173) id: Rifle Division id:171 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:174) id: Rifle Division id:172 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:175) id: Rifle Division id:173 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:176) id: Rifle Division id:176 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:177) id: Rifle Division id:178 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:178) id: Rifle Division id:180 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:179) id: Rifle Division id:182 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:180) id: Rifle Division id:186 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:181) id: Rifle Division id:187 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:182) id: Rifle Division id:114 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:183) id: Rifle Division id:120 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:184) id: Rifle Division id:91 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:185) id: Rifle Division id:102 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:186) id: Rifle Division id:107 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:187) id: Rifle Division id:115 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:188) id: Rifle Division id:117 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:189) id: Rifle Division id:119 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:190) id: Rifle Division id:121 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:191) id: Rifle Division id:123 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:192) id: Rifle Division id:124 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:193) id: Rifle Division id:125 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:194) id: Rifle Division id:88 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:195) id: Rifle Division id:89 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:196) id: Rifle Division id:110 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:197) id: Rifle Division id:112 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:198) id: Rifle Division id:113 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:199) id: Rifle Division id:122 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:200) id: Rifle Division id:42 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:201) id: Rifle Division id:106 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:202) id: Rifle Division id:128 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:203) id: Rifle Division id:153 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:204) id: Rifle Division id:154 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:205) id: Rifle Division id:161 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:206) id: Rifle Division id:165 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:207) id: Rifle Division id:167 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:208) id: Rifle Division id:174 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:209) id: Rifle Division id:175 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:210) id: Rifle Division id:177 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:211) id: Rifle Division id:179 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:212) id: Rifle Division id:181 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:213) id: Rifle Division id:183 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:214) id: Rifle Division id:184 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:215) id: Rifle Division id:188 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:216) id: Rifle Division id:189 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:217) id: Rifle Division id:190 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:218) id: Rifle Division id:191 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:219) id: Rifle Division id:193 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:220) id: Rifle Division id:195 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:221) id: Rifle Division id:196 name:%dya 'Dnepropetrov.' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:222) id: Rifle Division id:197 name:%dya 'Kievskaya' Strelk. Div.
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:223) id: Rifle Division id:199 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:224) id: Rifle Division id:200 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:225) id: Rifle Division id:206 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:226) id: Rifle Division id:214 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:227) id: Rifle Division id:217 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:228) id: Rifle Division id:222 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:229) id: Rifle Division id:227 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:230) id: Rifle Division id:228 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:231) id: Rifle Division id:229 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:232) id: Rifle Division id:232 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:233) id: Rifle Division id:233 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:234) id: Rifle Division id:235 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:235) id: Rifle Division id:237 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:236) id: Rifle Division id:238 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:237) id: Rifle Division id:201 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:238) id: Rifle Division id:203 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:239) id: Rifle Division id:207 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:240) id: Rifle Division id:211 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:241) id: Rifle Division id:223 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:242) id: Rifle Division id:224 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:243) id: Rifle Division id:225 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:244) id: Rifle Division id:226 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:245) id: Rifle Division id:230 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:246) id: Rifle Division id:231 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:247) id: Rifle Division id:234 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:248) id: Rifle Division id:241 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:249) id: Rifle Division id:243 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:250) id: Rifle Division id:244 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:251) id: Rifle Division id:245 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:252) id: Rifle Division id:246 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:253) id: Rifle Division id:247 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:254) id: Rifle Division id:248 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:255) id: Rifle Division id:249 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:256) id: Rifle Division id:250 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:257) id: Rifle Division id:251 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:258) id: Rifle Division id:252 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:259) id: Rifle Division id:253 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:260) id: Rifle Division id:254 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:261) id: Rifle Division id:255 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:262) id: Rifle Division id:256 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:263) id: Rifle Division id:257 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:264) id: Rifle Division id:258 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:265) id: Rifle Division id:259 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:266) id: Rifle Division id:260 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:267) id: Rifle Division id:261 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:268) id: Rifle Division id:262 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:269) id: Rifle Division id:263 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:270) id: Rifle Division id:264 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:271) id: Rifle Division id:265 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:272) id: Rifle Division id:266 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:273) id: Rifle Division id:267 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:274) id: Rifle Division id:268 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:275) id: Rifle Division id:269 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:276) id: Rifle Division id:270 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:277) id: Rifle Division id:271 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:278) id: Rifle Division id:272 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:279) id: Rifle Division id:273 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:280) id: Rifle Division id:274 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:281) id: Rifle Division id:275 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:282) id: Rifle Division id:276 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:283) id: Rifle Division id:277 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:284) id: Rifle Division id:278 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:285) id: Rifle Division id:279 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:286) id: Rifle Division id:280 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:287) id: Rifle Division id:281 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:288) id: Rifle Division id:282 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:289) id: Rifle Division id:283 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:290) id: Rifle Division id:284 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:291) id: Rifle Division id:285 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:292) id: Rifle Division id:286 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:293) id: Rifle Division id:287 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:294) id: Rifle Division id:288 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:295) id: Rifle Division id:289 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:296) id: Rifle Division id:290 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:297) id: Rifle Division id:291 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:298) id: Rifle Division id:292 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:299) id: Rifle Division id:293 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:300) id: Rifle Division id:294 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:301) id: Rifle Division id:295 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:302) id: Rifle Division id:296 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:303) id: Rifle Division id:297 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:304) id: Rifle Division id:298 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:305) id: Rifle Division id:299 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:306) id: Rifle Division id:300 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:307) id: Rifle Division id:301 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:308) id: Rifle Division id:303 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:309) id: Rifle Division id:304 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:310) id: Rifle Division id:305 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:311) id: Rifle Division id:306 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:312) id: Rifle Division id:307 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:313) id: Rifle Division id:308 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:314) id: Rifle Division id:310 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:315) id: Rifle Division id:311 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:316) id: Rifle Division id:312 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:317) id: Rifle Division id:313 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:318) id: Rifle Division id:314 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:319) id: Rifle Division id:315 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:320) id: Rifle Division id:316 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:321) id: Rifle Division id:317 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:322) id: Rifle Division id:318 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:323) id: Rifle Division id:319 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:324) id: Rifle Division id:320 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:325) id: Rifle Division id:321 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:326) id: Rifle Division id:322 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:327) id: Rifle Division id:323 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:328) id: Rifle Division id:324 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:329) id: Rifle Division id:325 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:330) id: Rifle Division id:326 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:331) id: Rifle Division id:327 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:332) id: Rifle Division id:328 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:333) id: Rifle Division id:329 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:334) id: Rifle Division id:330 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:335) id: Rifle Division id:332 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:336) id: Rifle Division id:333 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:337) id: Rifle Division id:334 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:338) id: Rifle Division id:335 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:339) id: Rifle Division id:336 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:340) id: Rifle Division id:337 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:341) id: Rifle Division id:339 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:342) id: Rifle Division id:340 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:343) id: Rifle Division id:341 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:344) id: Rifle Division id:342 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:345) id: Rifle Division id:343 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:346) id: Rifle Division id:344 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:347) id: Rifle Division id:345 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:348) id: Rifle Division id:346 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:349) id: Rifle Division id:348 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:350) id: Rifle Division id:349 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:351) id: Rifle Division id:350 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:352) id: Rifle Division id:351 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:353) id: Rifle Division id:352 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:354) id: Rifle Division id:353 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:355) id: Rifle Division id:354 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:356) id: Rifle Division id:355 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:357) id: Rifle Division id:356 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:358) id: Rifle Division id:357 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:359) id: Rifle Division id:358 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:360) id: Rifle Division id:359 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:361) id: Rifle Division id:360 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:362) id: Rifle Division id:361 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:363) id: Rifle Division id:362 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:364) id: Rifle Division id:364 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:365) id: Rifle Division id:365 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:366) id: Rifle Division id:366 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:367) id: Rifle Division id:367 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:368) id: Rifle Division id:368 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:369) id: Rifle Division id:369 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:370) id: Rifle Division id:370 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:371) id: Rifle Division id:371 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:372) id: Rifle Division id:372 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:373) id: Rifle Division id:373 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:374) id: Rifle Division id:374 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:375) id: Rifle Division id:375 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:376) id: Rifle Division id:376 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:377) id: Rifle Division id:377 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:378) id: Rifle Division id:378 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:379) id: Rifle Division id:379 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:380) id: Rifle Division id:380 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:381) id: Rifle Division id:381 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:382) id: Rifle Division id:382 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:383) id: Rifle Division id:383 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:384) id: Rifle Division id:384 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:385) id: Rifle Division id:386 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:386) id: Rifle Division id:387 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:387) id: Rifle Division id:388 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:388) id: Rifle Division id:389 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:389) id: Rifle Division id:390 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:390) id: Rifle Division id:391 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:391) id: Rifle Division id:393 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:392) id: Rifle Division id:395 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:393) id: Rifle Division id:396 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:394) id: Rifle Division id:397 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:395) id: Rifle Division id:399 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:396) id: Rifle Division id:400 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:397) id: Rifle Division id:402 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:398) id: Rifle Division id:404 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:399) id: Rifle Division id:405 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:400) id: Rifle Division id:406 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:401) id: Rifle Division id:407 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:402) id: Rifle Division id:408 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:403) id: Rifle Division id:409 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:404) id: Rifle Division id:411 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:405) id: Rifle Division id:412 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:406) id: Rifle Division id:413 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:407) id: Rifle Division id:414 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:408) id: Rifle Division id:415 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:409) id: Rifle Division id:416 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:410) id: Rifle Division id:417 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:411) id: Rifle Division id:422 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:412) id: Rifle Division id:445 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:413) id: Rifle Division id:410 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:414) id: Rifle Division id:418 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:415) id: Rifle Division id:419 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:416) id: Rifle Division id:420 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:417) id: Rifle Division id:421 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:418) id: Rifle Division id:423 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:419) id: Rifle Division id:424 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:420) id: Rifle Division id:425 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:421) id: Rifle Division id:426 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:422) id: Rifle Division id:427 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:423) id: Rifle Division id:428 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:424) id: Rifle Division id:429 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:425) id: Rifle Division id:430 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:426) id: Rifle Division id:432 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:427) id: Rifle Division id:433 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:428) id: Rifle Division id:434 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:429) id: Rifle Division id:435 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:430) id: Rifle Division id:436 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:431) id: Rifle Division id:437 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:432) id: Rifle Division id:439 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:433) id: Rifle Division id:440 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:434) id: Rifle Division id:441 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:435) id: Rifle Division id:442 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:436) id: Rifle Division id:443 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:437) id: Rifle Division id:444 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:438) id: Rifle Division id:446 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:439) id: Rifle Division id:448 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:440) id: Rifle Division id:449 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:441) id: Rifle Division id:450 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:442) id: Rifle Division id:451 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:443) id: Rifle Division id:452 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:444) id: Rifle Division id:453 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:445) id: Rifle Division id:454 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:446) id: Rifle Division id:455 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:447) id: Rifle Division id:456 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:448) id: Rifle Division id:457 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:449) id: Rifle Division id:458 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:450) id: Rifle Division id:459 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:451) id: Rifle Division id:460 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:452) id: Rifle Division id:461 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:453) id: Rifle Division id:462 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:454) id: Rifle Division id:464 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:455) id: Rifle Division id:465 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:456) id: Rifle Division id:466 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:457) id: Rifle Division id:467 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:458) id: Rifle Division id:468 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:459) id: Rifle Division id:469 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:460) id: Rifle Division id:470 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:461) id: Rifle Division id:471 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:462) id: Rifle Division id:472 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:463) id: Rifle Division id:473 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1607]: Adding a duplicate ORDERED division name (common/units/names_divisions/SOV_names_divisions.txt:464) id: Rifle Division id:474 name:%dya Strelkovaya Diviziya
+[14:54:09][divisionnamesdatabase.cpp:1678]: Error loading division names group. Unknown tag specified in link_numbering_with scope: RUS_INF_01
+[14:54:09][divisionnamesdatabase.cpp:1678]: Error loading division names group. Unknown tag specified in link_numbering_with scope: RUS_INF_01
+[14:54:11][trigger.cpp:641]: Invalid trigger 'SOV_nikolay_yezhov' in common/decisions/SOV.txt line : 12877
+[14:54:11][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_nikolay_yezhov, near line: 12877" in file: "common/decisions/SOV.txt" near line: 12880
+[14:54:11][effect.cpp:402]: Invalid effect 'SOV_nikolay_yezhov' in common/decisions/SOV.txt line : 12891
+[14:54:11][effect.cpp:297]: Error: "Unknown effect-type: SOV_nikolay_yezhov, near line: 12891" in file: "common/decisions/SOV.txt" near line: 12896
+[14:54:11][trigger.cpp:641]: Invalid trigger 'SOV_genrikh_yagoda' in common/decisions/SOV.txt line : 12922
+[14:54:11][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_genrikh_yagoda, near line: 12922" in file: "common/decisions/SOV.txt" near line: 12925
+[14:54:11][effect.cpp:402]: Invalid effect 'SOV_genrikh_yagoda' in common/decisions/SOV.txt line : 12936
+[14:54:11][effect.cpp:297]: Error: "Unknown effect-type: SOV_genrikh_yagoda, near line: 12936" in file: "common/decisions/SOV.txt" near line: 12940
+[14:54:11][trigger.cpp:641]: Invalid trigger 'SOV_genrikh_yagoda' in common/decisions/SOV.txt line : 12979
+[14:54:11][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_genrikh_yagoda, near line: 12979" in file: "common/decisions/SOV.txt" near line: 12980
+[14:54:11][trigger.cpp:641]: Invalid trigger 'SOV_nikolay_yezhov' in common/decisions/SOV.txt line : 12983
+[14:54:11][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_nikolay_yezhov, near line: 12983" in file: "common/decisions/SOV.txt" near line: 12984
+[14:54:11][trigger.cpp:641]: Invalid trigger 'SOV_grigory_zinovyev' in common/decisions/SOV.txt line : 16438
+[14:54:11][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_grigory_zinovyev, near line: 16438" in file: "common/decisions/SOV.txt" near line: 16441
+[14:54:11][effect.cpp:402]: Invalid effect 'SOV_grigory_zinovyev' in common/decisions/SOV.txt line : 16442
+[14:54:11][effect.cpp:297]: Error: "Unknown effect-type: SOV_grigory_zinovyev, near line: 16442" in file: "common/decisions/SOV.txt" near line: 16445
+[14:54:11][trigger.cpp:641]: Invalid trigger 'SOV_lev_kamenev' in common/decisions/SOV.txt line : 16453
+[14:54:11][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_lev_kamenev, near line: 16453" in file: "common/decisions/SOV.txt" near line: 16456
+[14:54:11][effect.cpp:402]: Invalid effect 'SOV_lev_kamenev' in common/decisions/SOV.txt line : 16457
+[14:54:11][effect.cpp:297]: Error: "Unknown effect-type: SOV_lev_kamenev, near line: 16457" in file: "common/decisions/SOV.txt" near line: 16460
+[14:54:11][trigger.cpp:641]: Invalid trigger 'SOV_ivan_smirnov' in common/decisions/SOV.txt line : 16468
+[14:54:11][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_ivan_smirnov, near line: 16468" in file: "common/decisions/SOV.txt" near line: 16471
+[14:54:11][effect.cpp:402]: Invalid effect 'SOV_ivan_smirnov' in common/decisions/SOV.txt line : 16472
+[14:54:11][effect.cpp:297]: Error: "Unknown effect-type: SOV_ivan_smirnov, near line: 16472" in file: "common/decisions/SOV.txt" near line: 16475
+[14:54:11][trigger.cpp:641]: Invalid trigger 'SOV_grigory_sokolnikov' in common/decisions/SOV.txt line : 16485
+[14:54:11][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_grigory_sokolnikov, near line: 16485" in file: "common/decisions/SOV.txt" near line: 16488
+[14:54:11][effect.cpp:402]: Invalid effect 'SOV_grigory_sokolnikov' in common/decisions/SOV.txt line : 16489
+[14:54:11][effect.cpp:297]: Error: "Unknown effect-type: SOV_grigory_sokolnikov, near line: 16489" in file: "common/decisions/SOV.txt" near line: 16492
+[14:54:11][trigger.cpp:641]: Invalid trigger 'SOV_aleksandr_shlyapnikov' in common/decisions/SOV.txt line : 16500
+[14:54:11][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_aleksandr_shlyapnikov, near line: 16500" in file: "common/decisions/SOV.txt" near line: 16503
+[14:54:11][effect.cpp:402]: Invalid effect 'SOV_aleksandr_shlyapnikov' in common/decisions/SOV.txt line : 16504
+[14:54:11][effect.cpp:297]: Error: "Unknown effect-type: SOV_aleksandr_shlyapnikov, near line: 16504" in file: "common/decisions/SOV.txt" near line: 16507
+[14:54:11][trigger.cpp:641]: Invalid trigger 'SOV_karl_radek' in common/decisions/SOV.txt line : 16565
+[14:54:11][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_karl_radek, near line: 16565" in file: "common/decisions/SOV.txt" near line: 16568
+[14:54:11][effect.cpp:402]: Invalid effect 'SOV_karl_radek' in common/decisions/SOV.txt line : 16569
+[14:54:11][effect.cpp:297]: Error: "Unknown effect-type: SOV_karl_radek, near line: 16569" in file: "common/decisions/SOV.txt" near line: 16572
+[14:54:11][trigger.cpp:641]: Invalid trigger 'SOV_ivar_smilga' in common/decisions/SOV.txt line : 16581
+[14:54:11][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_ivar_smilga, near line: 16581" in file: "common/decisions/SOV.txt" near line: 16584
+[14:54:11][effect.cpp:402]: Invalid effect 'SOV_ivar_smilga' in common/decisions/SOV.txt line : 16585
+[14:54:11][effect.cpp:297]: Error: "Unknown effect-type: SOV_ivar_smilga, near line: 16585" in file: "common/decisions/SOV.txt" near line: 16588
+[14:54:11][trigger.cpp:641]: Invalid trigger 'SOV_yevgeny_preobrazhensky' in common/decisions/SOV.txt line : 16596
+[14:54:11][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_yevgeny_preobrazhensky, near line: 16596" in file: "common/decisions/SOV.txt" near line: 16599
+[14:54:11][effect.cpp:402]: Invalid effect 'SOV_yevgeny_preobrazhensky' in common/decisions/SOV.txt line : 16600
+[14:54:11][effect.cpp:297]: Error: "Unknown effect-type: SOV_yevgeny_preobrazhensky, near line: 16600" in file: "common/decisions/SOV.txt" near line: 16603
+[14:54:11][trigger.cpp:641]: Invalid trigger 'SOV_martemyan_ryutin' in common/decisions/SOV.txt line : 16611
+[14:54:11][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_martemyan_ryutin, near line: 16611" in file: "common/decisions/SOV.txt" near line: 16614
+[14:54:11][effect.cpp:402]: Invalid effect 'SOV_martemyan_ryutin' in common/decisions/SOV.txt line : 16615
+[14:54:11][effect.cpp:297]: Error: "Unknown effect-type: SOV_martemyan_ryutin, near line: 16615" in file: "common/decisions/SOV.txt" near line: 16618
+[14:54:11][trigger.cpp:641]: Invalid trigger 'SOV_nikolay_ustryalov' in common/decisions/SOV.txt line : 16626
+[14:54:11][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_nikolay_ustryalov, near line: 16626" in file: "common/decisions/SOV.txt" near line: 16629
+[14:54:11][effect.cpp:402]: Invalid effect 'SOV_nikolay_ustryalov' in common/decisions/SOV.txt line : 16630
+[14:54:11][effect.cpp:297]: Error: "Unknown effect-type: SOV_nikolay_ustryalov, near line: 16630" in file: "common/decisions/SOV.txt" near line: 16633
+[14:54:11][trigger.cpp:641]: Invalid trigger 'SOV_mikhail_tukhachevsky' in common/decisions/SOV.txt line : 16736
+[14:54:11][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_mikhail_tukhachevsky, near line: 16736" in file: "common/decisions/SOV.txt" near line: 16739
+[14:54:11][effect.cpp:402]: Invalid effect 'SOV_mikhail_tukhachevsky' in common/decisions/SOV.txt line : 16740
+[14:54:11][effect.cpp:297]: Error: "Unknown effect-type: SOV_mikhail_tukhachevsky, near line: 16740" in file: "common/decisions/SOV.txt" near line: 16743
+[14:54:11][trigger.cpp:641]: Invalid trigger 'SOV_aleksandr_yegorov' in common/decisions/SOV.txt line : 16752
+[14:54:11][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_aleksandr_yegorov, near line: 16752" in file: "common/decisions/SOV.txt" near line: 16755
+[14:54:11][effect.cpp:402]: Invalid effect 'SOV_aleksandr_yegorov' in common/decisions/SOV.txt line : 16756
+[14:54:11][effect.cpp:297]: Error: "Unknown effect-type: SOV_aleksandr_yegorov, near line: 16756" in file: "common/decisions/SOV.txt" near line: 16759
+[14:54:11][trigger.cpp:641]: Invalid trigger 'SOV_vasily_blyukher' in common/decisions/SOV.txt line : 16767
+[14:54:11][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_vasily_blyukher, near line: 16767" in file: "common/decisions/SOV.txt" near line: 16770
+[14:54:11][effect.cpp:402]: Invalid effect 'SOV_vasily_blyukher' in common/decisions/SOV.txt line : 16771
+[14:54:11][effect.cpp:297]: Error: "Unknown effect-type: SOV_vasily_blyukher, near line: 16771" in file: "common/decisions/SOV.txt" near line: 16774
+[14:54:11][trigger.cpp:641]: Invalid trigger 'SOV_vitaly_primakov' in common/decisions/SOV.txt line : 16782
+[14:54:11][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_vitaly_primakov, near line: 16782" in file: "common/decisions/SOV.txt" near line: 16785
+[14:54:11][effect.cpp:402]: Invalid effect 'SOV_vitaly_primakov' in common/decisions/SOV.txt line : 16786
+[14:54:11][effect.cpp:297]: Error: "Unknown effect-type: SOV_vitaly_primakov, near line: 16786" in file: "common/decisions/SOV.txt" near line: 16789
+[14:54:11][trigger.cpp:641]: Invalid trigger 'SOV_nikolay_bukharin' in common/decisions/SOV.txt line : 16928
+[14:54:11][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_nikolay_bukharin, near line: 16928" in file: "common/decisions/SOV.txt" near line: 16931
+[14:54:11][effect.cpp:402]: Invalid effect 'SOV_nikolay_bukharin' in common/decisions/SOV.txt line : 16932
+[14:54:11][effect.cpp:297]: Error: "Unknown effect-type: SOV_nikolay_bukharin, near line: 16932" in file: "common/decisions/SOV.txt" near line: 16935
+[14:54:11][trigger.cpp:641]: Invalid trigger 'SOV_aleksey_rykov' in common/decisions/SOV.txt line : 16943
+[14:54:11][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_aleksey_rykov, near line: 16943" in file: "common/decisions/SOV.txt" near line: 16946
+[14:54:11][effect.cpp:402]: Invalid effect 'SOV_aleksey_rykov' in common/decisions/SOV.txt line : 16947
+[14:54:11][effect.cpp:297]: Error: "Unknown effect-type: SOV_aleksey_rykov, near line: 16947" in file: "common/decisions/SOV.txt" near line: 16950
+[14:54:11][trigger.cpp:641]: Invalid trigger 'SOV_mikhail_tomsky' in common/decisions/SOV.txt line : 16959
+[14:54:11][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_mikhail_tomsky, near line: 16959" in file: "common/decisions/SOV.txt" near line: 16962
+[14:54:11][effect.cpp:402]: Invalid effect 'SOV_mikhail_tomsky' in common/decisions/SOV.txt line : 16963
+[14:54:11][effect.cpp:297]: Error: "Unknown effect-type: SOV_mikhail_tomsky, near line: 16963" in file: "common/decisions/SOV.txt" near line: 16966
+[14:54:11][trigger.cpp:641]: Invalid trigger 'SOV_maksim_litvinov' in common/decisions/SOV.txt line : 16974
+[14:54:11][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_maksim_litvinov, near line: 16974" in file: "common/decisions/SOV.txt" near line: 16977
+[14:54:11][effect.cpp:402]: Invalid effect 'SOV_maksim_litvinov' in common/decisions/SOV.txt line : 16978
+[14:54:11][effect.cpp:297]: Error: "Unknown effect-type: SOV_maksim_litvinov, near line: 16978" in file: "common/decisions/SOV.txt" near line: 16981
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_grigory_zinovyev' in common/national_focus/soviet.txt line : 6710
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_grigory_zinovyev, near line: 6710" in file: "common/national_focus/soviet.txt" near line: 6713
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_lev_kamenev' in common/national_focus/soviet.txt line : 6722
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_lev_kamenev, near line: 6722" in file: "common/national_focus/soviet.txt" near line: 6725
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_ivan_smirnov' in common/national_focus/soviet.txt line : 6734
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_ivan_smirnov, near line: 6734" in file: "common/national_focus/soviet.txt" near line: 6737
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_grigory_sokolnikov' in common/national_focus/soviet.txt line : 6748
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_grigory_sokolnikov, near line: 6748" in file: "common/national_focus/soviet.txt" near line: 6751
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_aleksandr_shlyapnikov' in common/national_focus/soviet.txt line : 6760
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_aleksandr_shlyapnikov, near line: 6760" in file: "common/national_focus/soviet.txt" near line: 6763
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_karl_radek' in common/national_focus/soviet.txt line : 6984
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_karl_radek, near line: 6984" in file: "common/national_focus/soviet.txt" near line: 6987
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_ivar_smilga' in common/national_focus/soviet.txt line : 6997
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_ivar_smilga, near line: 6997" in file: "common/national_focus/soviet.txt" near line: 7000
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_yevgeny_preobrazhensky' in common/national_focus/soviet.txt line : 7009
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_yevgeny_preobrazhensky, near line: 7009" in file: "common/national_focus/soviet.txt" near line: 7012
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_martemyan_ryutin' in common/national_focus/soviet.txt line : 7021
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_martemyan_ryutin, near line: 7021" in file: "common/national_focus/soviet.txt" near line: 7024
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_nikolay_ustryalov' in common/national_focus/soviet.txt line : 7037
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_nikolay_ustryalov, near line: 7037" in file: "common/national_focus/soviet.txt" near line: 7040
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_mikhail_tukhachevsky' in common/national_focus/soviet.txt line : 7235
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_mikhail_tukhachevsky, near line: 7235" in file: "common/national_focus/soviet.txt" near line: 7238
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_aleksandr_yegorov' in common/national_focus/soviet.txt line : 7248
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_aleksandr_yegorov, near line: 7248" in file: "common/national_focus/soviet.txt" near line: 7251
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_vasily_blyukher' in common/national_focus/soviet.txt line : 7260
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_vasily_blyukher, near line: 7260" in file: "common/national_focus/soviet.txt" near line: 7263
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_vitaly_primakov' in common/national_focus/soviet.txt line : 7272
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_vitaly_primakov, near line: 7272" in file: "common/national_focus/soviet.txt" near line: 7275
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_nikolay_bukharin' in common/national_focus/soviet.txt line : 7332
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_nikolay_bukharin, near line: 7332" in file: "common/national_focus/soviet.txt" near line: 7335
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_aleksey_rykov' in common/national_focus/soviet.txt line : 7344
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_aleksey_rykov, near line: 7344" in file: "common/national_focus/soviet.txt" near line: 7347
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_mikhail_tomsky' in common/national_focus/soviet.txt line : 7357
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_mikhail_tomsky, near line: 7357" in file: "common/national_focus/soviet.txt" near line: 7360
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_maksim_litvinov' in common/national_focus/soviet.txt line : 7369
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_maksim_litvinov, near line: 7369" in file: "common/national_focus/soviet.txt" near line: 7372
+[14:54:12][trigger.cpp:641]: Invalid trigger 'SOV_ivan_smirnov' in common/national_focus/soviet.txt line : 8138
+[14:54:12][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_ivan_smirnov, near line: 8138" in file: "common/national_focus/soviet.txt" near line: 8139
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_ivan_smirnov' in common/national_focus/soviet.txt line : 8150
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_ivar_smilga' in common/national_focus/soviet.txt line : 8159
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_aleksandr_shlyapnikov' in common/national_focus/soviet.txt line : 8168
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_ivan_smirnov, near line: 8150
+Unknown effect-type: SOV_ivar_smilga, near line: 8159
+Unknown effect-type: SOV_aleksandr_shlyapnikov, near line: 8168" in file: "common/national_focus/soviet.txt" near line: 8179
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_nikolay_bukharin' in common/national_focus/soviet.txt line : 8247
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_mikhail_tomsky' in common/national_focus/soviet.txt line : 8248
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_aleksey_rykov' in common/national_focus/soviet.txt line : 8249
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_nikolay_bukharin, near line: 8247
+Unknown effect-type: SOV_mikhail_tomsky, near line: 8248
+Unknown effect-type: SOV_aleksey_rykov, near line: 8249" in file: "common/national_focus/soviet.txt" near line: 8251
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_mikhail_tukhachevsky' in common/national_focus/soviet.txt line : 8308
+[14:54:12][trigger.cpp:494]: Error: "Unknown effect-type: SOV_mikhail_tukhachevsky, near line: 8308" in file: "common/national_focus/soviet.txt" near line: 8315
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_vitaly_primakov' in common/national_focus/soviet.txt line : 8401
+[14:54:12][trigger.cpp:494]: Error: "Unknown effect-type: SOV_vitaly_primakov, near line: 8401" in file: "common/national_focus/soviet.txt" near line: 8408
+[14:54:12][trigger.cpp:641]: Invalid trigger 'SOV_lev_trotsky' in common/national_focus/soviet.txt line : 8665
+[14:54:12][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_lev_trotsky, near line: 8665" in file: "common/national_focus/soviet.txt" near line: 8666
+[14:54:12][trigger.cpp:641]: Invalid trigger 'SOV_lev_trotsky' in common/national_focus/soviet.txt line : 8764
+[14:54:12][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_lev_trotsky, near line: 8764" in file: "common/national_focus/soviet.txt" near line: 8765
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_karl_radek' in common/national_focus/soviet.txt line : 9421
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_ivar_smilga' in common/national_focus/soviet.txt line : 9422
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_yevgeny_preobrazhensky' in common/national_focus/soviet.txt line : 9423
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_karl_radek, near line: 9421
+Unknown effect-type: SOV_ivar_smilga, near line: 9422
+Unknown effect-type: SOV_yevgeny_preobrazhensky, near line: 9423" in file: "common/national_focus/soviet.txt" near line: 9425
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_iosif_stalin' in common/national_focus/soviet.txt line : 9537
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_iosif_stalin, near line: 9537" in file: "common/national_focus/soviet.txt" near line: 9540
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_lev_trotsky' in common/national_focus/soviet.txt line : 9768
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_lev_trotsky, near line: 9768" in file: "common/national_focus/soviet.txt" near line: 9768
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_ivan_smirnov' in common/national_focus/soviet.txt line : 9769
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_ivan_smirnov, near line: 9769" in file: "common/national_focus/soviet.txt" near line: 9769
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_ivar_smilga' in common/national_focus/soviet.txt line : 9770
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_ivar_smilga, near line: 9770" in file: "common/national_focus/soviet.txt" near line: 9770
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_aleksandr_shlyapnikov' in common/national_focus/soviet.txt line : 9771
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_aleksandr_shlyapnikov, near line: 9771" in file: "common/national_focus/soviet.txt" near line: 9771
+[14:54:12][trigger.cpp:641]: Invalid trigger 'SOV_nikolay_bukharin' in common/national_focus/soviet.txt line : 9858
+[14:54:12][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_nikolay_bukharin, near line: 9858" in file: "common/national_focus/soviet.txt" near line: 9859
+[14:54:12][trigger.cpp:641]: Invalid trigger 'SOV_nikolay_bukharin' in common/national_focus/soviet.txt line : 9869
+[14:54:12][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_nikolay_bukharin, near line: 9869" in file: "common/national_focus/soviet.txt" near line: 9870
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_mikhail_kalinin' in common/national_focus/soviet.txt line : 10582
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_vsevolod_merkulov' in common/national_focus/soviet.txt line : 10586
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_mikhail_kalinin, near line: 10582
+Unknown effect-type: SOV_vsevolod_merkulov, near line: 10586" in file: "common/national_focus/soviet.txt" near line: 10593
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_nikolay_bukharin' in common/national_focus/soviet.txt line : 10669
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_aleksey_rykov' in common/national_focus/soviet.txt line : 10672
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_nikolay_bukharin, near line: 10669
+Unknown effect-type: SOV_aleksey_rykov, near line: 10672" in file: "common/national_focus/soviet.txt" near line: 10675
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_karl_radek' in common/national_focus/soviet.txt line : 10683
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_yevgeny_preobrazhensky' in common/national_focus/soviet.txt line : 10686
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_karl_radek, near line: 10683
+Unknown effect-type: SOV_yevgeny_preobrazhensky, near line: 10686" in file: "common/national_focus/soviet.txt" near line: 10689
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_grigory_zinovyev' in common/national_focus/soviet.txt line : 10728
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_lev_kamenev' in common/national_focus/soviet.txt line : 10738
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_grigory_zinovyev, near line: 10728
+Unknown effect-type: SOV_lev_kamenev, near line: 10738" in file: "common/national_focus/soviet.txt" near line: 10748
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_grigory_zinovyev' in common/national_focus/soviet.txt line : 10753
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_lev_kamenev' in common/national_focus/soviet.txt line : 10763
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_grigory_zinovyev, near line: 10753
+Unknown effect-type: SOV_lev_kamenev, near line: 10763" in file: "common/national_focus/soviet.txt" near line: 10773
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_martemyan_ryutin' in common/national_focus/soviet.txt line : 10799
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_martemyan_ryutin, near line: 10799" in file: "common/national_focus/soviet.txt" near line: 10809
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_martemyan_ryutin' in common/national_focus/soviet.txt line : 10815
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_martemyan_ryutin, near line: 10815" in file: "common/national_focus/soviet.txt" near line: 10825
+[14:54:12][trigger.cpp:641]: Invalid trigger 'SOV_ivan_konev' in common/national_focus/soviet.txt line : 11289
+[14:54:12][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_ivan_konev, near line: 11289" in file: "common/national_focus/soviet.txt" near line: 11293
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_ivan_konev' in common/national_focus/soviet.txt line : 11294
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_ivan_konev, near line: 11294" in file: "common/national_focus/soviet.txt" near line: 11297
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_aleksandr_kazembek' in common/national_focus/soviet.txt line : 16050
+[14:54:12][effect.cpp:402]: Invalid effect 'SOV_anastasy_vonsyatsky' in common/national_focus/soviet.txt line : 16053
+[14:54:12][effect.cpp:297]: Error: "Unknown effect-type: SOV_aleksandr_kazembek, near line: 16050
+Unknown effect-type: SOV_anastasy_vonsyatsky, near line: 16053" in file: "common/national_focus/soviet.txt" near line: 16057
+[14:54:13][effect.cpp:402]: Invalid effect 'SOV_grigory_semyonov' in history/countries/MAN - Manchukou.txt line : 41
+[14:54:13][effect.cpp:297]: Error: "Unknown effect-type: SOV_grigory_semyonov, near line: 41" in file: "history/countries/MAN - Manchukou.txt" near line: 44
+[14:54:13][trigger.cpp:641]: Invalid trigger 'SOV_genrikh_yagoda' in common/scripted_localisation/NSB_soviet_scripted_loc.txt line : 688
+[14:54:13][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_genrikh_yagoda, near line: 688" in file: "common/scripted_localisation/NSB_soviet_scripted_loc.txt" near line: 689
+[14:54:13][trigger.cpp:641]: Invalid trigger 'SOV_nikolay_yezhov' in common/scripted_localisation/NSB_soviet_scripted_loc.txt line : 695
+[14:54:13][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_nikolay_yezhov, near line: 695" in file: "common/scripted_localisation/NSB_soviet_scripted_loc.txt" near line: 696
+[14:54:14][trigger.cpp:641]: Invalid trigger 'SOV_sergey_khudyakov' in common/scripted_effects/SOV_scripted_effects.txt line : 2416
+[14:54:14][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_sergey_khudyakov, near line: 2416" in file: "common/scripted_effects/SOV_scripted_effects.txt" near line: 2417
+[14:54:14][effect.cpp:402]: Invalid effect 'SOV_sergey_khudyakov' in common/scripted_effects/SOV_scripted_effects.txt line : 2418
+[14:54:14][effect.cpp:297]: Error: "Unknown effect-type: SOV_sergey_khudyakov, near line: 2418" in file: "common/scripted_effects/SOV_scripted_effects.txt" near line: 2421
+[14:54:14][trigger.cpp:641]: Invalid trigger 'SOV_yakov_smushkevich' in common/scripted_effects/SOV_scripted_effects.txt line : 2426
+[14:54:14][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_yakov_smushkevich, near line: 2426" in file: "common/scripted_effects/SOV_scripted_effects.txt" near line: 2427
+[14:54:14][effect.cpp:402]: Invalid effect 'SOV_yakov_smushkevich' in common/scripted_effects/SOV_scripted_effects.txt line : 2428
+[14:54:14][effect.cpp:297]: Error: "Unknown effect-type: SOV_yakov_smushkevich, near line: 2428" in file: "common/scripted_effects/SOV_scripted_effects.txt" near line: 2431
+[14:54:14][trigger.cpp:641]: Invalid trigger 'SOV_pavel_rychagov' in common/scripted_effects/SOV_scripted_effects.txt line : 2436
+[14:54:14][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_pavel_rychagov, near line: 2436" in file: "common/scripted_effects/SOV_scripted_effects.txt" near line: 2437
+[14:54:14][effect.cpp:402]: Invalid effect 'SOV_pavel_rychagov' in common/scripted_effects/SOV_scripted_effects.txt line : 2438
+[14:54:14][effect.cpp:297]: Error: "Unknown effect-type: SOV_pavel_rychagov, near line: 2438" in file: "common/scripted_effects/SOV_scripted_effects.txt" near line: 2441
+[14:54:14][effect.cpp:402]: Invalid effect 'SOV_lev_trotsky' in common/scripted_effects/SOV_scripted_effects.txt line : 4234
+[14:54:14][effect.cpp:297]: Error: "Unknown effect-type: SOV_lev_trotsky, near line: 4234" in file: "common/scripted_effects/SOV_scripted_effects.txt" near line: 4238
+[14:54:14][trigger.cpp:641]: Invalid trigger 'SOV_genrikh_yagoda' in common/scripted_effects/SOV_scripted_effects.txt line : 6978
+[14:54:14][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_genrikh_yagoda, near line: 6978" in file: "common/scripted_effects/SOV_scripted_effects.txt" near line: 6979
+[14:54:14][trigger.cpp:641]: Invalid trigger 'SOV_nikolay_yezhov' in common/scripted_effects/SOV_scripted_effects.txt line : 6982
+[14:54:14][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_nikolay_yezhov, near line: 6982" in file: "common/scripted_effects/SOV_scripted_effects.txt" near line: 6983
+[14:54:14][effect.cpp:402]: Invalid effect 'SOV_provisional_government' in common/scripted_effects/SOV_scripted_effects.txt line : 7450
+[14:54:14][effect.cpp:297]: Error: "Unknown effect-type: SOV_provisional_government, near line: 7450" in file: "common/scripted_effects/SOV_scripted_effects.txt" near line: 7469
+[14:54:14][effect.cpp:402]: Invalid effect 'SOV_iosif_stalin' in common/scripted_effects/SOV_scripted_effects.txt line : 7912
+[14:54:14][effect.cpp:297]: Error: "Unknown effect-type: SOV_iosif_stalin, near line: 7912" in file: "common/scripted_effects/SOV_scripted_effects.txt" near line: 7912
+[14:54:14][trigger.cpp:641]: Invalid trigger 'SOV_genrikh_yagoda' in common/scripted_effects/SOV_scripted_effects.txt line : 7976
+[14:54:14][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_genrikh_yagoda, near line: 7976" in file: "common/scripted_effects/SOV_scripted_effects.txt" near line: 7976
+[14:54:14][trigger.cpp:641]: Invalid trigger 'SOV_nikolay_yezhov' in common/scripted_effects/SOV_scripted_effects.txt line : 7980
+[14:54:14][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_nikolay_yezhov, near line: 7980" in file: "common/scripted_effects/SOV_scripted_effects.txt" near line: 7980
+[14:54:15][effect.cpp:402]: Invalid effect 'SOV_iosif_stalin' in events/NSB_NewsEvents.txt line : 1054
+[14:54:15][effect.cpp:297]: Error: "Unknown effect-type: SOV_iosif_stalin, near line: 1054" in file: "events/NSB_NewsEvents.txt" near line: 1060
+[14:54:15][effect.cpp:402]: Invalid effect 'SOV_genrikh_yagoda' in events/NSB_Soviet.txt line : 257
+[14:54:15][effect.cpp:297]: Error: "Unknown effect-type: SOV_genrikh_yagoda, near line: 257" in file: "events/NSB_Soviet.txt" near line: 260
+[14:54:15][effect.cpp:402]: Invalid effect 'SOV_nikolay_yezhov' in events/NSB_Soviet.txt line : 276
+[14:54:15][effect.cpp:297]: Error: "Unknown effect-type: SOV_nikolay_yezhov, near line: 276" in file: "events/NSB_Soviet.txt" near line: 279
+[14:54:15][effect.cpp:402]: Invalid effect 'SOV_grigory_semyonov' in events/NSB_Soviet.txt line : 8830
+[14:54:15][persistent.cpp:48]: Error: "Unknown effect-type: SOV_grigory_semyonov, near line: 8830" in file: "events/NSB_Soviet.txt" near line: 8830
+[14:54:15][effect.cpp:402]: Invalid effect 'SOV_grigory_semyonov' in events/NSB_Soviet.txt line : 8848
+[14:54:15][persistent.cpp:48]: Error: "Unknown effect-type: SOV_grigory_semyonov, near line: 8848" in file: "events/NSB_Soviet.txt" near line: 8853
+[14:54:15][effect.cpp:402]: Invalid effect 'SOV_andrey_vlasov' in events/NSB_Soviet.txt line : 12786
+[14:54:15][effect.cpp:297]: Error: "Unknown effect-type: SOV_andrey_vlasov, near line: 12786" in file: "events/NSB_Soviet.txt" near line: 12789
+[14:54:15][effect.cpp:402]: Invalid effect 'SOV_andrey_vlasov' in events/NSB_Soviet.txt line : 12838
+[14:54:15][effect.cpp:297]: Error: "Unknown effect-type: SOV_andrey_vlasov, near line: 12838" in file: "events/NSB_Soviet.txt" near line: 12842
+[14:54:15][effect.cpp:402]: Invalid effect 'SOV_andrey_vlasov' in events/NSB_Soviet.txt line : 12864
+[14:54:15][effect.cpp:297]: Error: "Unknown effect-type: SOV_andrey_vlasov, near line: 12864" in file: "events/NSB_Soviet.txt" near line: 12867
+[14:54:15][trigger.cpp:641]: Invalid trigger 'SOV_aleksandr_kerensky' in common/on_actions/07_nsb_on_actions.txt line : 977
+[14:54:15][trigger.cpp:494]: Error: "Unknown trigger-type: SOV_aleksandr_kerensky, near line: 977" in file: "common/on_actions/07_nsb_on_actions.txt" near line: 980
+[14:54:15][effect.cpp:402]: Invalid effect 'SOV_aleksandr_kerensky' in common/on_actions/07_nsb_on_actions.txt line : 981
+[14:54:15][effect.cpp:297]: Error: "Unknown effect-type: SOV_aleksandr_kerensky, near line: 981" in file: "common/on_actions/07_nsb_on_actions.txt" near line: 984
+[14:54:24][effect.cpp:402]: Invalid effect 'SOV_grigory_semyonov' in history/countries/MAN - Manchukou.txt line : 41
+[14:54:24][effect.cpp:297]: Error: "Unknown effect-type: SOV_grigory_semyonov, near line: 41" in file: "history/countries/MAN - Manchukou.txt" near line: 44
+[14:54:24][statehistory.cpp:286]: State Error: Trying to set province building in state that doesn't own it. Province #657 in state #46.
+[14:54:24][statehistory.cpp:286]: State Error: Trying to set province building in state that doesn't own it. Province #687 in state #46.
+[14:54:24][statehistory.cpp:286]: State Error: Trying to set province building in state that doesn't own it. Province #5283 in state #69.
+[14:54:24][statehistory.cpp:286]: State Error: Trying to set province building in state that doesn't own it. Province #7329 in state #336.
+[14:54:24][statehistory.cpp:286]: State Error: Trying to set province building in state that doesn't own it. Province #10297 in state #336.
+[14:54:24][statehistory.cpp:286]: State Error: Trying to set province building in state that doesn't own it. Province #7014 in state #613.
+[14:54:24][statehistory.cpp:286]: State Error: Trying to set province building in state that doesn't own it. Province #12530 in state #825.
+[14:54:24][effectimplementation.cpp:5267]: history/countries/SOV - Soviet union.txt:26: recruit_character: Unknown character 
+[14:54:24][country.cpp:7507]: Attempting to set captial state #219 for Russian Federation, they dont own it!
+[14:54:24][effectimplementation.cpp:1849]: history/countries/SOV - Soviet union.txt:161: add_ideas: Invalid idea: SOV_genrikh_yagoda. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[14:54:25][effectimplementation.cpp:5267]: history/countries/MAN - Manchukou.txt:40: recruit_character: Unknown character 
+[14:54:25][effectimplementation.cpp:5277]: history/countries/RUS - Russia.txt:17: recruit_character: Character SOV_kliment_voroshilov cannot be assigned to RUS as it is already assigned to SOV
+[14:54:25][effectimplementation.cpp:5277]: history/countries/RUS - Russia.txt:21: recruit_character: Character SOV_semyon_budyonny cannot be assigned to RUS as it is already assigned to SOV
+[14:54:25][effectimplementation.cpp:5267]: history/countries/RUS - Russia.txt:22: recruit_character: Unknown character SOV_ivan_konev
+[14:54:25][effectimplementation.cpp:1849]: history/countries/RUS - Russia.txt:113: add_ideas: Invalid idea: partial_mobilisation. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[14:54:25][effectimplementation.cpp:5277]: history/countries/SML - Malaya.txt:7: recruit_character: Character MAL_shenton_thomas cannot be assigned to SML as it is already assigned to MAL
+[14:54:25][effectimplementation.cpp:5277]: history/countries/SML - Malaya.txt:8: recruit_character: Character MAL_onn_jaafar cannot be assigned to SML as it is already assigned to MAL
+[14:54:25][effectimplementation.cpp:5277]: history/countries/SML - Malaya.txt:9: recruit_character: Character MAL_lai_teck cannot be assigned to SML as it is already assigned to MAL
+[14:54:25][effectimplementation.cpp:5277]: history/countries/SML - Malaya.txt:10: recruit_character: Character MAL_ibrahim_hj_yaacob cannot be assigned to SML as it is already assigned to MAL
+[14:54:25][effectimplementation.cpp:5277]: history/countries/SML - Malaya.txt:11: recruit_character: Character MAL_winston_tyron cannot be assigned to SML as it is already assigned to MAL
+[14:54:25][effectimplementation.cpp:5267]: history/countries/SGU - Siberia.txt:10: recruit_character: Unknown character 
+[14:54:25][country.cpp:7507]: Attempting to set captial state #219 for Siberian Federation, they dont own it!
+[14:54:25][country.cpp:7507]: Attempting to set captial state #572 for Russian Liberation Army, they dont own it!
+[14:54:25][effectimplementation.cpp:1849]: history/countries/ROA - ROA.txt:109: add_ideas: Invalid idea: partial_mobilisation. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[14:54:25][effectimplementation.cpp:1849]: history/countries/MOS - Moskowien.txt:109: add_ideas: Invalid idea: partial_mobilisation. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[14:54:25][effectimplementation.cpp:1849]: history/countries/RUK - RKUkraine.txt:109: add_ideas: Invalid idea: partial_mobilisation. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[14:54:30][mapbuildings.cpp:543]: map/buildings.txt error at line 5181: map building(Military Factory) location is not within specified state. Supposed to be '199 - Khmelnytskyi' but was '198 - Vinnytsia'for province 6429. BUILDING IGNORED!
+[14:54:30][mapbuildings.cpp:543]: map/buildings.txt error at line 5182: map building(Military Factory) location is not within specified state. Supposed to be '199 - Khmelnytskyi' but was '198 - Vinnytsia'for province 6429. BUILDING IGNORED!
+[14:54:30][mapbuildings.cpp:543]: map/buildings.txt error at line 5183: map building(Military Factory) location is not within specified state. Supposed to be '199 - Khmelnytskyi' but was '198 - Vinnytsia'for province 462. BUILDING IGNORED!
+[14:54:30][mapbuildings.cpp:543]: map/buildings.txt error at line 5187: map building(Civilian Factory) location is not within specified state. Supposed to be '199 - Khmelnytskyi' but was '198 - Vinnytsia'for province 462. BUILDING IGNORED!
+[14:54:30][mapbuildings.cpp:543]: map/buildings.txt error at line 5188: map building(Civilian Factory) location is not within specified state. Supposed to be '199 - Khmelnytskyi' but was '198 - Vinnytsia'for province 3430. BUILDING IGNORED!
+[14:54:30][mapbuildings.cpp:543]: map/buildings.txt error at line 5189: map building(Civilian Factory) location is not within specified state. Supposed to be '199 - Khmelnytskyi' but was '198 - Vinnytsia'for province 6429. BUILDING IGNORED!
+[14:54:30][mapbuildings.cpp:543]: map/buildings.txt error at line 5191: map building(Civilian Factory) location is not within specified state. Supposed to be '199 - Khmelnytskyi' but was '198 - Vinnytsia'for province 462. BUILDING IGNORED!
+[14:54:30][mapbuildings.cpp:543]: map/buildings.txt error at line 5192: map building(Civilian Factory) location is not within specified state. Supposed to be '199 - Khmelnytskyi' but was '198 - Vinnytsia'for province 3430. BUILDING IGNORED!
+[14:54:30][mapbuildings.cpp:543]: map/buildings.txt error at line 5195: map building(Land Fort) location is not within specified state. Supposed to be '199 - Khmelnytskyi' but was '198 - Vinnytsia'for province 3430. BUILDING IGNORED!
+[14:54:30][mapbuildings.cpp:543]: map/buildings.txt error at line 5196: map building(Land Fort) location is not within specified state. Supposed to be '199 - Khmelnytskyi' but was '198 - Vinnytsia'for province 462. BUILDING IGNORED!
+[14:54:30][mapbuildings.cpp:543]: map/buildings.txt error at line 5198: map building(Land Fort) location is not within specified state. Supposed to be '199 - Khmelnytskyi' but was '198 - Vinnytsia'for province 6429. BUILDING IGNORED!
+[14:54:30][mapbuildings.cpp:543]: map/buildings.txt error at line 5200: map building(Anti-Air) location is not within specified state. Supposed to be '199 - Khmelnytskyi' but was '198 - Vinnytsia'for province 3430. BUILDING IGNORED!
+[14:54:30][mapbuildings.cpp:543]: map/buildings.txt error at line 5202: map building(Anti-Air) location is not within specified state. Supposed to be '199 - Khmelnytskyi' but was '198 - Vinnytsia'for province 6429. BUILDING IGNORED!
+[14:54:30][mapbuildings.cpp:543]: map/buildings.txt error at line 5203: map building(Synthetic Refinery) location is not within specified state. Supposed to be '199 - Khmelnytskyi' but was '198 - Vinnytsia'for province 462. BUILDING IGNORED!
+[14:54:30][mapbuildings.cpp:543]: map/buildings.txt error at line 27623: map building(Fuel Silo) location is not within specified state. Supposed to be '199 - Khmelnytskyi' but was '198 - Vinnytsia'for province 462. BUILDING IGNORED!
+[14:54:30][mapbuildings.cpp:543]: map/buildings.txt error at line 31843: map building(Supply Hub) location is not within specified state. Supposed to be '199 - Khmelnytskyi' but was '198 - Vinnytsia'for province 462. BUILDING IGNORED!
+[14:54:30][mapbuildings.cpp:543]: map/buildings.txt error at line 31844: map building(Supply Hub) location is not within specified state. Supposed to be '199 - Khmelnytskyi' but was '198 - Vinnytsia'for province 3430. BUILDING IGNORED!
+[14:54:30][mapbuildings.cpp:543]: map/buildings.txt error at line 31847: map building(Supply Hub) location is not within specified state. Supposed to be '199 - Khmelnytskyi' but was '198 - Vinnytsia'for province 6429. BUILDING IGNORED!

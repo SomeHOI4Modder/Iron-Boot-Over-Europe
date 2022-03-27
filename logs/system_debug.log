@@ -1,0 +1,500 @@
+[14:53:43][pdx_pops_login.cpp:721]: [POPS Login] Login Succeeded
+[14:53:45][pdx_pops_wrapper.cpp:961]: Retrieved profile for 495bab54-36a8-471f-a8b9-dafa8cea8f28 (Yugoslav Gamer)
+[14:53:48][pdx_social_pops.cpp:641]: OnSocialListenStatusCallback (New Status: Connected)
+[14:53:48][pdx_pops_wrapper.cpp:961]: Retrieved profile for 495bab54-36a8-471f-a8b9-dafa8cea8f28 (Yugoslav Gamer)
+[14:54:21][containerwindow.cpp:2544]: interface/frontendgamesetupview.gui(line 1977): Object "play_button" has illegal position with x: -300 and y: -100 in "bottom" with width: 241( no horizontal scrollbar ) and height: 60( no vertical scrollbar ).
+[14:54:21][containerwindow.cpp:2544]: interface/frontendgamesetupview.gui(line 1977): Object "play_button_ready" has illegal position with x: -300 and y: -100 in "bottom" with width: 241( no horizontal scrollbar ) and height: 60( no vertical scrollbar ).
+[14:54:21][containerwindow.cpp:2544]: interface/settings.gui(line 1149): Object "tabs_bg" has illegal position with x: -7 in "menu_settings_ingame" with width: 494( no horizontal scrollbar ).
+[14:54:21][hotkeymanager.cpp:192]: HotkeyManager::RemoveListener - trying to remove listener for event  but there's no entry for the event
+[14:54:21][containerwindow.cpp:2544]: interface/frontendmultiplayerview.gui(line 279): Object "connect_win_bottom" has illegal position with y: 254 in "multiplayer_connect_window" with height: 72( no vertical scrollbar ).
+[14:54:21][containerwindow.cpp:2544]: interface/career_profile/career_profile_view.gui(line 5): Object "subscribe_button" has illegal position with x: -265 in "career_profile_view" with width: 221( no horizontal scrollbar ).
+[14:54:21][containerwindow.cpp:2544]: interface/career_profile/career_profile_view.gui(line 5): Object "close_button" has illegal position with x: -44 in "career_profile_view" with width: 32( no horizontal scrollbar ).
+[14:54:21][containerwindow.cpp:2544]: interface/career_profile/career_profile_view.gui(line 109): Object "career_profile_countries_grid" has illegal position with x: -1 in "career_profile_countries_grid_container" with width: 2133( no horizontal scrollbar ).
+[14:54:31][containerwindow.cpp:2544]: interface/frontendmainview.gui(line 190): Object "subscription_widget" has illegal position with y: 312 in "mainmenu_panel_bottom" with height: 108( no vertical scrollbar ).
+[14:54:31][containerwindow.cpp:2544]: interface/frontendmainview.gui(line 190): Object "subscription_widget_subscribed" has illegal position with y: 312 in "mainmenu_panel_bottom" with height: 108( no vertical scrollbar ).
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/123456789.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/ALB_1937_11_12_19.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/ANNEX SPG WINNERS.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/BRY_1967_09_15_22.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/BRY_1968_10_18_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/BUL_1936_12_21_05.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/CHI_1937_01_19_20.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/ETH_1937_12_10_09.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/EU.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/FIN_1937_09_25_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/FRA_1937_03_15_15.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/GER.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/GER_1915_09_22_10.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/GER_1936_01_01_12.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/GER_1936_08_09_22.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/GER_1936_08_26_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/GER_1936_10_06_08.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/GER_1936_12_26_22.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/GER_1937_04_08_20.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/GER_1937_08_06_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/GER_1937_10_02_17.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/GER_1937_11_02_17.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/GER_1941_07_02_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/GER_1941_07_10_20.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/GER_1943_03_21_05.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/HO.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/HOL_1938_01_15_14.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/ITA_1937_04_14_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/Ironman Estonia 1.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/Ironman Estonia 2.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/Ironman Estonia 3.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/Ironman Estonia 4.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/Ironman Finland 1.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/Ironman German Reich 1.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/Ironman German Reich 2.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/Ironman German Reich 3.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/Ironman German Reich 4.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:31][savegamehelper.cpp:196]: Warning: save games/Ironman German Reich 5.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/Ironman German Reich 6.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/Ironman Lithuania 1.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/Ironman Poland 1.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/Ironman Soviet Union 1.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/Ironman Tannu Tuva 1.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/Ironman Tannu Tuva 2.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/Ironman Yugoslavia 1.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/KRA_1956_09_02_15.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/KRA_1958_06_03_07.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/KRA_1959_11_21_20.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/LUX_1937_02_14_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/Long Live the People's Republic of China!.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/OMS_1965_01_29_12.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/OMS_1965_10_30_17.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/OMS_1965_11_28_03.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/POL_1937_05_01_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/PRC_1966_05_28_02.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/PRC_1966_06_20_02.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/PRC_1966_07_17_16.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/PRC_1968_06_21_15.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/PRC_1970_01_31_16.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/PRC_1971_10_24_02.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/PRC_1971_11_16_15.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/RUS_1936_04_14_06.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/RUS_1936_04_16_14.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/RUS_1936_04_24_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/RUS_1938_06_27_17.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/RUS_1938_07_03_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/RUS_1938_07_19_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/RUS_1939_12_19_20.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/RUS_1940_06_05_07.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/SOV_1937_07_17_23.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/SOV_1940_04_01_04.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/THE GREAT TRAIL AWAITS!.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/The Great Memes Await!.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/UKR_1936_10_11_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/VEN_1937_07_09_08.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/VEN_1937_07_14_21.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/WRS_1963_11_26_02.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/WRS_1964_01_08_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/WRS_1964_07_28_17.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/WRS_1964_12_11_22.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/WRS_1966_02_17_06.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/WRS_1966_03_03_15.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/WRS_1966_05_06_08.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/WRS_1966_07_16_19.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/WRS_1967_01_01_22.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/WRS_1967_05_02_13.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/WRS_1967_05_26_05.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/WRS_1969_10_28_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/WRS_1971_06_24_02.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/WRS_1971_09_15_02.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/WRS_1971_11_27_24.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/WRS_1972_01_08_24.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/WRS_1972_08_03_06.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/WRS_1974_02_18_19.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/autosave.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/bremes.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/definetiy not a plot to kill you.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/gasgasgasgasgasgasgasgasgasgasasgasgasgasgasgas.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/germany.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/mccmkdkl.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/momes1.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/momes2.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/momes3.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/momes4.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/momes5.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/momes6.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/momes7.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/momes8.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/momes9.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_01_01_14.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_01_08_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_01_18_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_01_19_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_02_06_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_02_14_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_02_18_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_02_20_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_03_03_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_03_13_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_03_18_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_03_21_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_03_24_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_03_28_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_04_02_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_04_12_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_04_14_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_04_14_21.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_04_16_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_04_20_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_04_25_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_04_28_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_04_30_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_05_03_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_05_04_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_05_06_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_05_07_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_05_11_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_05_14_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_05_15_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_05_16_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_05_22_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_05_25_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_06_15_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_06_17_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_06_21_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_06_23_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_06_26_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_06_29_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_06_30_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_07_03_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_07_07_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_07_08_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_07_18_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_07_22_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_07_23_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_07_28_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:32][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_08_24_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_08_25_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_09_10_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_09_13_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_09_14_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_09_15_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_09_19_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_10_11_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_10_14_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_10_22_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_10_27_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_11_09_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_11_16_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_12_09_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_12_11_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_12_17_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_12_18_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_12_22_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_12_30_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_01_02_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_02_04_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_02_08_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_02_21_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_02_26_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_03_03_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_03_09_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_03_10_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_03_14_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_04_04_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_04_08_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_06_22_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_07_12_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_09_23_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_12_25_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1938_04_22_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1939_11_18_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1955_07_30_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1959_02_23_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_01_05_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_01_07_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_01_12_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_01_14_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_01_18_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_01_20_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_01_21_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_02_19_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_03_07_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_03_09_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_03_11_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_03_12_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_03_16_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_03_30_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1965_12_11_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1965_12_16_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_02_09_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_08_06_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_08_30_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_09_21_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_10_03_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_10_10_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_10_13_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_10_15_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_10_18_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_10_23_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_11_05_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_11_24_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_11_29_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_12_21_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_12_30_15.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1967_01_05_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1968_02_03_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1968_10_18_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1970_02_24_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1970_06_09_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/peaceconference_1971_04_26_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/pikachu.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/unstoppable germania 1.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/unstoppable germania 2.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/unstoppable germania 3.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/world of tratagy.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/wow.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:33][savegamehelper.cpp:196]: Warning: save games/yuoissiavia.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:34][containerwindow.cpp:2544]: interface/frontendgamesetupview.gui(line 1977): Object "play_button" has illegal position with x: -300 and y: -100 in "bottom" with width: 241( no horizontal scrollbar ) and height: 60( no vertical scrollbar ).
+[14:54:34][containerwindow.cpp:2544]: interface/frontendgamesetupview.gui(line 1977): Object "play_button_ready" has illegal position with x: -300 and y: -100 in "bottom" with width: 241( no horizontal scrollbar ) and height: 60( no vertical scrollbar ).
+[14:54:34][containerwindow.cpp:2544]: interface/settings.gui(line 1149): Object "tabs_bg" has illegal position with x: -7 in "menu_settings_ingame" with width: 494( no horizontal scrollbar ).
+[14:54:34][containerwindow.cpp:2544]: interface/frontendgamesetupview.gui(line 933): Object "spirit_grid" has illegal position with x: 253 in "gamesetup_country_details" with width: 300( no horizontal scrollbar ).
+[14:54:34][containerwindow.cpp:2544]: interface/frontendgamesetupview.gui(line 933): Object "spirit_grid_over_defined" has illegal position with x: 253 in "gamesetup_country_details" with width: 330( no horizontal scrollbar ).
+[14:54:34][containerwindow.cpp:2544]: interface/settings.gui(line 1149): Object "tabs_bg" has illegal position with x: -7 in "menu_settings_ingame" with width: 494( no horizontal scrollbar ).
+[14:54:34][containerwindow.cpp:2544]: interface/frontendmultiplayerview.gui(line 279): Object "connect_win_bottom" has illegal position with y: 254 in "multiplayer_connect_window" with height: 72( no vertical scrollbar ).
+[14:54:34][containerwindow.cpp:2544]: interface/career_profile/career_profile_view.gui(line 5): Object "subscribe_button" has illegal position with x: -265 in "career_profile_view" with width: 221( no horizontal scrollbar ).
+[14:54:34][containerwindow.cpp:2544]: interface/career_profile/career_profile_view.gui(line 5): Object "close_button" has illegal position with x: -44 in "career_profile_view" with width: 32( no horizontal scrollbar ).
+[14:54:34][containerwindow.cpp:2544]: interface/career_profile/career_profile_view.gui(line 109): Object "career_profile_countries_grid" has illegal position with x: -1 in "career_profile_countries_grid_container" with width: 2133( no horizontal scrollbar ).
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/123456789.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/ALB_1937_11_12_19.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/ANNEX SPG WINNERS.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/BRY_1967_09_15_22.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/BRY_1968_10_18_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/BUL_1936_12_21_05.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/CHI_1937_01_19_20.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/ETH_1937_12_10_09.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/EU.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/FIN_1937_09_25_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/FRA_1937_03_15_15.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/GER.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/GER_1915_09_22_10.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/GER_1936_01_01_12.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/GER_1936_08_09_22.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/GER_1936_08_26_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/GER_1936_10_06_08.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/GER_1936_12_26_22.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/GER_1937_04_08_20.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/GER_1937_08_06_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/GER_1937_10_02_17.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/GER_1937_11_02_17.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/GER_1941_07_02_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/GER_1941_07_10_20.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/GER_1943_03_21_05.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/HO.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/HOL_1938_01_15_14.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/ITA_1937_04_14_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/Ironman Estonia 1.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/Ironman Estonia 2.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/Ironman Estonia 3.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/Ironman Estonia 4.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/Ironman Finland 1.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/Ironman German Reich 1.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/Ironman German Reich 2.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/Ironman German Reich 3.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/Ironman German Reich 4.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/Ironman German Reich 5.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/Ironman German Reich 6.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/Ironman Lithuania 1.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/Ironman Poland 1.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/Ironman Soviet Union 1.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/Ironman Tannu Tuva 1.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/Ironman Tannu Tuva 2.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/Ironman Yugoslavia 1.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/KRA_1956_09_02_15.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/KRA_1958_06_03_07.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/KRA_1959_11_21_20.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/LUX_1937_02_14_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/Long Live the People's Republic of China!.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/OMS_1965_01_29_12.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/OMS_1965_10_30_17.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/OMS_1965_11_28_03.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/POL_1937_05_01_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/PRC_1966_05_28_02.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/PRC_1966_06_20_02.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/PRC_1966_07_17_16.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/PRC_1968_06_21_15.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/PRC_1970_01_31_16.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/PRC_1971_10_24_02.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/PRC_1971_11_16_15.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/RUS_1936_04_14_06.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/RUS_1936_04_16_14.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/RUS_1936_04_24_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/RUS_1938_06_27_17.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/RUS_1938_07_03_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/RUS_1938_07_19_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/RUS_1939_12_19_20.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/RUS_1940_06_05_07.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/SOV_1937_07_17_23.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/SOV_1940_04_01_04.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/THE GREAT TRAIL AWAITS!.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/The Great Memes Await!.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/UKR_1936_10_11_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/VEN_1937_07_09_08.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/VEN_1937_07_14_21.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/WRS_1963_11_26_02.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/WRS_1964_01_08_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/WRS_1964_07_28_17.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/WRS_1964_12_11_22.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/WRS_1966_02_17_06.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/WRS_1966_03_03_15.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/WRS_1966_05_06_08.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/WRS_1966_07_16_19.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/WRS_1967_01_01_22.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/WRS_1967_05_02_13.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/WRS_1967_05_26_05.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/WRS_1969_10_28_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/WRS_1971_06_24_02.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/WRS_1971_09_15_02.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/WRS_1971_11_27_24.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/WRS_1972_01_08_24.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/WRS_1972_08_03_06.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/WRS_1974_02_18_19.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/autosave.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/bremes.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/definetiy not a plot to kill you.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/gasgasgasgasgasgasgasgasgasgasasgasgasgasgasgas.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/germany.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/mccmkdkl.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/momes1.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/momes2.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/momes3.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/momes4.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/momes5.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/momes6.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/momes7.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/momes8.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/momes9.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_01_01_14.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_01_08_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_01_18_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_01_19_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_02_06_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_02_14_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_02_18_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_02_20_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_03_03_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_03_13_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_03_18_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_03_21_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_03_24_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_03_28_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_04_02_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_04_12_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_04_14_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_04_14_21.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:37][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_04_16_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_04_20_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_04_25_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_04_28_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_04_30_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_05_03_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_05_04_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_05_06_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_05_07_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_05_11_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_05_14_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_05_15_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_05_16_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_05_22_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_05_25_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_06_15_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_06_17_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_06_21_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_06_23_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_06_26_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_06_29_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_06_30_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_07_03_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_07_07_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_07_08_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_07_18_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_07_22_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_07_23_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_07_28_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_08_24_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_08_25_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_09_10_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_09_13_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_09_14_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_09_15_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_09_19_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_10_11_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_10_14_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_10_22_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_10_27_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_11_09_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_11_16_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_12_09_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_12_11_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_12_17_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_12_18_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_12_22_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1936_12_30_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_01_02_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_02_04_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_02_08_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_02_21_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_02_26_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_03_03_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_03_09_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_03_10_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_03_14_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_04_04_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_04_08_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_06_22_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_07_12_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_09_23_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1937_12_25_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1938_04_22_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1939_11_18_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1955_07_30_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1959_02_23_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_01_05_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_01_07_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_01_12_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_01_14_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_01_18_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_01_20_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_01_21_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_02_19_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_03_07_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_03_09_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_03_11_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_03_12_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_03_16_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1962_03_30_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1965_12_11_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1965_12_16_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_02_09_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_08_06_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_08_30_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_09_21_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_10_03_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_10_10_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_10_13_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_10_15_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_10_18_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_10_23_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_11_05_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_11_24_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_11_29_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_12_21_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1966_12_30_15.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1967_01_05_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1968_02_03_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1968_10_18_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1970_02_24_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1970_06_09_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/peaceconference_1971_04_26_01.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/pikachu.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/unstoppable germania 1.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/unstoppable germania 2.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/unstoppable germania 3.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/world of tratagy.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/wow.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
+[14:54:38][savegamehelper.cpp:196]: Warning: save games/yuoissiavia.hoi4 magix says BINARY but file says TEXT, defaulting to BINARY.
