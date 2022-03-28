@@ -1,19 +1,17 @@
-
 state={
 	id=838
 	name="STATE_838"
-
 	history={
 		owner = RUS
 		add_core_of = RUS
+	
 		set_demilitarized_zone = yes
 
 	}
-
 	provinces={
-		87 180 6105 9041 11042 11089 
+		87 180 3081 6100 6105 6193 9041 9124 9213 11042 11061 11089 
 	}
-	manpower=24500
+	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=town
 	local_supplies=0.000
